@@ -33,6 +33,10 @@
 ### 3. Config.ini の設定
 XUnity.AutoTranslatorを導入後、生成される `Config.ini`（AutoTranslatorフォルダ内）をテキストエディタで開き、`[Behaviour]` セクションを以下のように編集
 
+### 4. ゲーム内設定の変更
+タイトル画面右上から「日本語」を選択
+
+
 ```ini
 [Behaviour]
 FallbackFontTextMeshPro=Gothic-regular_u2019
@@ -56,4 +60,4 @@ FallbackFontTextMeshPro=Gothic-regular_u2019
 プレイ中に文章へ `＆` や `＠` などの記号が混ざり、読みにくくなる現象が発生することがありますが、これは**ゲームの仕様**です。
 
 *   **原因**: ゲーム内パラメータ **"Brain Health"（脳機能）** の低下
-*   翻訳ミスや不具合ではありませんので、ブレイングロウガブガブしてください。
+*   翻訳ミスや不具合ではありませんので、ブレイングロウをガブガブしてください。
