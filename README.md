@@ -35,7 +35,6 @@ XUnity.AutoTranslatorを導入後、生成される `Config.ini`（AutoTranslato
 
 ```ini
 [Behaviour]
-; 元のフォントを維持しつつ、日本語など不足文字のみ補完します（推奨）
 FallbackFontTextMeshPro=Gothic-regular_u2019
 
 ```
