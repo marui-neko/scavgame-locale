@@ -1,6 +1,6 @@
 {
     "name": "日本語",
-    "description": "CasualtiesUnknownV5の非公式日本語訳 要XUnity.AutoTranslator 日本語翻訳リポジトリ:https://github.com/marui-neko/scavgame-locale/tree/japanese-translation",
+    "description": "CasualtiesUnknownV5.03の非公式日本語訳 要XUnity.AutoTranslator 日本語翻訳リポジトリ:https://github.com/marui-neko/scavgame-locale/tree/japanese-translation",
     "main": {
         "bandage": "包帯",
         "bandagedsc": "ガーゼ付きの包帯。出血を抑え、骨折部位を固定し、皮膚の治癒を助ける。筋肉健康度への効果はない。",
@@ -511,7 +511,7 @@
         "craftingbottle": "間に合わせのボトル",
         "craftingbottledsc": "即席の液体容器。補充はできず、すぐに崩壊する。中身が消える前に別の容器へ移し替えること。",
         "nondescriptcan": "謎の缶",
-        "nondescriptcandsc": "特徴のない、ラベルすら貼られていない缶。中身は…何らかの物体だ。これといった見た目も匂いもしない。食べられるかもしれないし、そうでないかもしれない。",
+        "nondescriptcandsc": "特徴のない、ラベルすら貼られていない缶。中身は...何らかの物体だ。これといった見た目も匂いもしない。食べられるかもしれないし、そうでないかもしれない。",
         "canteen": "水筒",
         "canteendsc": "プラスチックの塊を接着し、紐で縛っただけの簡素で小さな液体容器。容量は300mL。",
         "lcdscreen": "液晶画面",
@@ -545,7 +545,7 @@
         "present": "プレゼント",
         "presentdsc": "デコレーションされた紙箱。中に何かが入っているようだ。使用すると開封できる。",
         "woodsandals": "木製サンダル",
-        "woodsandalsdsc": "ロープで足に縛り付けただけの木の板。履き心地は良くないが、鋭利な瓦礫から肉球を守る役には立つはずだ…運が良ければ、数回くらいはもつだろう！",
+        "woodsandalsdsc": "ロープで足に縛り付けただけの木の板。履き心地は良くないが、鋭利な瓦礫から肉球を守る役には立つはずだ...運が良ければ、数回くらいはもつだろう！",
         "minibarrel": "小型ドラム缶",
         "minibarreldsc": "液体を保管するために作られた小型の工業用ドラム缶。非常に重く、扱いにくい。"
     },
@@ -877,7 +877,7 @@
         "highimmunity": "免疫良好",
         "amputation": "部位欠損",
         "clawdamage1": "爪の摩耗",
-        "clawdamage2": "爪の破損",
+        "clawdamage2": "爪のcorrupt",
         "keratinbooster": "再成長促進",
         "impendingdoom": "迫りくる破滅の兆し",
         "horrified": " 恐 慌 ",
@@ -905,7 +905,7 @@
         "withdrawal2dsc": "身体が次の一発を渇望している。吐き気がする...最悪の気分だ。処置推奨。",
         "withdrawal3dsc": "自分を保つのに必死で、震えが止まらず、あらゆる救いを渇望している。ひどく苦しい。処置が必要。",
         "withdrawal4dsc": "依存しきったオピオイド無しでは、もはや身体機能を維持できない。心臓は全身への酸素供給に失敗し、絶望的な発作により低酸素脳症を引き起こしている。",
-        "stimulateddsc": "強力な興奮剤が血管を駆け巡っている。どんな脅威にも立ち向かえるような気がする…少なくとも、今のところは。", 
+        "stimulateddsc": "強力な興奮剤が血管を駆け巡っている。どんな脅威にも立ち向かえるような気がする...少なくとも、今のところは。", 
         "drugoverdosedsc": "非オピオイド系薬物を過剰摂取した。健康上の合併症が起こりうる。",
         "bleeding1dsc": "小さめの傷から血が滲み出ている。差し迫った危険はない。",
         "bleeding2dsc": "中程度の傷口から出血している。健康体であれば致命的にはなりにくい。処置推奨。",
@@ -1068,7 +1068,7 @@
         "layermodifier4dsc": "大気が完全に凍てついている!",
         "layermodifier5dsc": "この地形は異常なほど水没している。",
         "layermodifier6dsc": "ここでは水溜まりなど期待しない方がいいだろう。",
-        "layermodifier7dsc": "ここでは至る所から、水が滴り落ちてくる…。",
+        "layermodifier7dsc": "ここでは至る所から、水が滴り落ちてくる...。",
         "layermodifier8dsc": "この場所では、虫の活動が非常に活発なようだ。",
         "layermodifier9dsc": "この区域には核廃棄物が投棄されている。",
         "layermodifier10dsc": "強力な太陽フレアの影響により、しばらくの間チップが無効化される。",
@@ -1162,13 +1162,13 @@
         "yogurt": "ヨーグルト",
         "yogurtdsc": "菌を発酵させた乳製品。味はまあまあ。それなりに腹にたまる。",
         "mold": "カビ",
-        "molddsc": "かつてこれだった何かの面影は、とうの昔に失われている。腐った臭いがする…。",
+        "molddsc": "かつてこれだった何かの面影は、とうの昔に失われている。腐った臭いがする...。",
         "orangejuice": "オレンジジュース",
         "orangejuicedsc": "オレンジの木の実から抽出された液体。健康的ではあるが、どうもこの味とは反りが合わない。",
 		"applejuice": "アップルジュース",
         "applejuicedsc": "リンゴをすり潰して搾った果汁。美味しい!",
         "hotsauce": "ホットソース",
-        "hotsaucedsc": "猛烈に辛いトウガラシで作られた調味料。口の中が焼けつくようだが、体は温まる…なぜか。",
+        "hotsaucedsc": "猛烈に辛いトウガラシで作られた調味料。口の中が焼けつくようだが、体は温まる...なぜか。",
         "chloroform": "クロロホルム",
         "chloroformdsc": "揮発性で無色、甘い芳香を持つ高密度の液体。冷媒やポリテトラフルオロエチレンの前駆体として大量生産されている。実用面においては、誰かを昏倒させるのに非常に役立つ。",
         "mercury": "水銀",
@@ -1264,7 +1264,7 @@
         "soap": "石鹸",
         "soapdsc": "動物性脂肪から作られた石鹸。ヘルスパネルで使用すると体の汚れを落とし、傷をわずかに消毒できる。",
         "producejuice": "青果ジュース",
-        "producejuicedsc": "果物や野菜、その他見つけたものを何でもすり潰して水と混ぜたもの。味は…興味深い。",
+        "producejuicedsc": "果物や野菜、その他見つけたものを何でもすり潰して水と混ぜたもの。味は...興味深い。",
         "refinedjuice": "精製ジュース",
         "refinedjuicedsc": "しっかり加熱し、より丁寧に混ぜてすり潰した青果ジュース。とても美味しくて栄養満点!",
         "liquiddescription": "しゃがんで静止すると飲むことができる。",
@@ -1487,12 +1487,12 @@
         "sleepquality0": "<color=\"red\">最悪</color>",
         "togglehealthmode": "負傷/防具表示の切り替え",
         "tutexp1": "またトレーニングセッションか。",
-        "tutexp2": "うん…",
-        "tutexp3": "あいつらが僕たちに叩き込もうとしてること…なんか、あやしくない?",
+        "tutexp2": "うん...",
+        "tutexp3": "あいつらが僕たちに叩き込もうとしてること...なんか、あやしくない?",
         "tutexp4": "どっちにしろ、誰が先に行く?",
         "tutexp5": "僕は少し待つよ。君が行ったほうがいい。",
-        "tutexp6": "あー、了解…",
-        "tutexp7": "…またね。",
+        "tutexp6": "あー、了解...",
+        "tutexp7": "...またね。",
         "tut1": "ようこそ! ここが最終総合訓練エリアだ。",
         "tut1b": "よく聞くんだぞ。二度も同じことは言わないからな。",
         "tut2": "右へ進め。移動は （A/D） だ。",
@@ -1624,14 +1624,14 @@
         "learnedrecipe": "r1 のレシピを習得。\n<color=\"green\">INT経験値 35 獲得。",
         "hasbattery": "バッテリー搭載 （<>）\n<sprite index=17 tint=1>工具で取外し可能",
         "nobattery": "バッテリー未搭載 （最大 <>）",
-        "unknownobject": "これは…",
-        "unknownmedical": "何らかの医療品のようだ…",
-        "unknowndrug": "何らかの薬物のようだ…",
-        "unknownfood": "何らかの食料のようだ…",
-        "unknownwater": "何らかのボトルのようだ…",
-        "unknownutility": "何らかの機器のようだ…",
-        "unknowncontainer": "何らかの鞄のようだ…",
-        "unknowntool": "何らかの道具のようだ…",
+        "unknownobject": "これは...",
+        "unknownmedical": "何らかの医療品のようだ...",
+        "unknowndrug": "何らかの薬物のようだ...",
+        "unknownfood": "何らかの食料のようだ...",
+        "unknownwater": "何らかのボトルのようだ...",
+        "unknownutility": "何らかの機器のようだ...",
+        "unknowncontainer": "何らかの鞄のようだ...",
+        "unknowntool": "何らかの道具のようだ...",
         "unknownobjectdsc": "これが何で、何をするものなのか判別できない。",
         "unknownobjectwarning": "知識不足のため識別不可 （必要知力 <>　）",
         "small": "小",
@@ -3881,7 +3881,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "やりたくなんてなかった。あいつら胸腔ドレインを持ってたんだ。どうすればよかったの？自分の血で溺れ死ねって言うの？　僕にはダイナマイトしかなかった…　家に帰れるなら、あの訓練用のラジオを聞くだけでもいい、なんだって差し出すよ。僕のせいじゃない。僕のせいじゃないんだ。",
+                "Item1": "やりたくなんてなかった。あいつら胸腔ドレインを持ってたんだ。どうすればよかったの？自分の血で溺れ死ねって言うの？　僕にはダイナマイトしかなかった...　家に帰れるなら、あの訓練用のラジオを聞くだけでもいい、なんだって差し出すよ。僕のせいじゃない。僕のせいじゃないんだ。",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -3896,7 +3896,7 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "誰かをハグすると、もっと幸せな気持ちになれるんだ…　でも、ハグを嫌がる生存者もいるみたい。　たぶん、どうにかしてなだめられると思うんだけど。　それに、冷たい床で一人で寝るより、誰かの隣で寝るほうがずっといいからね。",
+                "Item1": "誰かをハグすると、もっと幸せな気持ちになれるんだ...　でも、ハグを嫌がる生存者もいるみたい。　たぶん、どうにかしてなだめられると思うんだけど。　それに、冷たい床で一人で寝るより、誰かの隣で寝るほうがずっといいからね。",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -3906,22 +3906,22 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "武器を見つけた。銃器だ。うわぁ…　こういうのの扱いは慣れてないんだよね…訓練の時、もっと真面目にやっとくべきだったよ…なんでこんな準備不足のまま、殺処分されずにここに送り込まれたのか、さっぱり見当もつかない。さっきなんて、うっかり誰かを撃ち殺すとこだった。安全装置をかけとくべきだったんだ…そんなの知りようがないけどさ。武器を持ってると、他の連中はマジでパニックになるみたいだ。だから、何かにしまって見えないようにするのがベストかも。僕に撃たれると思ってるんだろうな、こっちの意図なんて分からないだろうし。まあ、僕だって誰かに銃を向けられたら、同じこと思うだろうけど。",
+                "Item1": "武器を見つけた。銃器だ。うわぁ...　こういうのの扱いは慣れてないんだよね...訓練の時、もっと真面目にやっとくべきだったよ...なんでこんな準備不足のまま、殺処分されずにここに送り込まれたのか、さっぱり見当もつかない。さっきなんて、うっかり誰かを撃ち殺すとこだった。安全装置をかけとくべきだったんだ...そんなの知りようがないけどさ。武器を持ってると、他の連中はマジでパニックになるみたいだ。だから、何かにしまって見えないようにするのがベストかも。僕に撃たれると思ってるんだろうな、こっちの意図なんて分からないだろうし。まあ、僕だって誰かに銃を向けられたら、同じこと思うだろうけど。",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "上のほうで他の連中にバカな真似しちゃったこと、マジで自分に腹が立つ…　おかげで見つけた生存者はみんな、ポッドから僕を追い払おうとしてくる…　なあ、あいつらの罵倒がどれだけ酷かったか…　引っ掻いてこようとまでするんだ…　僕はただ、心の中でこう言うしかなかった。\"わかった、悪かったよ。頼むから、今は命ひとつだって大事な時でしょ？ 傷つけ合ったり殺し合ったりしてる場合じゃないんだよ\"ってね。僕がもっとまともだったら…　全部、僕自身のせいだ。",
+                "Item1": "上のほうで他の連中にバカな真似しちゃったこと、マジで自分に腹が立つ...　おかげで見つけた生存者はみんな、ポッドから僕を追い払おうとしてくる...　なあ、あいつらの罵倒がどれだけ酷かったか...　引っ掻いてこようとまでするんだ...　僕はただ、心の中でこう言うしかなかった。\"わかった、悪かったよ。頼むから、今は命ひとつだって大事な時でしょ？ 傷つけ合ったり殺し合ったりしてる場合じゃないんだよ\"ってね。僕がもっとまともだったら...　全部、僕自身のせいだ。",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "至る所に、あらゆる種類の生物が徘徊しています。私は平和主義者ですので、交戦するよりも撤退することを選んでいます。どちらが先に命を落とすか、予測がつきませんから…　それに、彼らに負わされた傷は地獄のように痛むのです。もう、何が何だか…　我々の捕獲者たちは、この地下での我々の惨状を、真に理解しているのでしょうか？",
+                "Item1": "至る所に、あらゆる種類の生物が徘徊しています。私は平和主義者ですので、交戦するよりも撤退することを選んでいます。どちらが先に命を落とすか、予測がつきませんから...　それに、彼らに負わされた傷は地獄のように痛むのです。もう、何が何だか...　我々の捕獲者たちは、この地下での我々の惨状を、真に理解しているのでしょうか？",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "孤独を感じています…　ゆえに、気を紛らわせることにしました。\n小型のファックスのような機器を見つけ、それをこじ開けて中から用紙を取り出しました。次に、棒を拾って発光する果実を押し付けてみたところ…　なんと、絵筆とキャンバスの代わりになったのです！聞いてください…　私は別の現実を描き始めました。あの卑劣な科学者どもが存在せず、我々が自由で平和に共存している世界を…　幸福感に満たされ、少し涙してしまいました。\nですが、もう行かねばなりません。空腹を覚えましたので。もしお会いできたら、あなたのことも描きましょうか…？ この\n絵筆\nの扱いは随分と上達しました。他の者たちにも、描くことを教授してみようと思います……。",
+                "Item1": "孤独を感じています...　ゆえに、気を紛らわせることにしました。\n小型のファックスのような機器を見つけ、それをこじ開けて中から用紙を取り出しました。次に、棒を拾って発光する果実を押し付けてみたところ...　なんと、絵筆とキャンバスの代わりになったのです！聞いてください...　私は別の現実を描き始めました。あの卑劣な科学者どもが存在せず、我々が自由で平和に共存している世界を...　幸福感に満たされ、少し涙してしまいました。\nですが、もう行かねばなりません。空腹を覚えましたので。もしお会いできたら、あなたのことも描きましょうか...？ この\n絵筆\nの扱いは随分と上達しました。他の者たちにも、描くことを教授してみようと思います......。",
                 "Item2": "",
                 "Item3": "milky"
             },
@@ -3938,7 +3938,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "調子はいい感じだ。お腹においしいご飯が入ってて、マッシュテイルも1、2こあれば幸せなんだ。トレーダーの人たちも笑い返してくれるしね！ …ただ、自分の血を見るのだけは嫌だ。怖いんだよ。",
+                "Item1": "調子はいい感じだ。お腹においしいご飯が入ってて、マッシュテイルも1、2こあれば幸せなんだ。トレーダーの人たちも笑い返してくれるしね！ ...ただ、自分の血を見るのだけは嫌だ。怖いんだよ。",
                 "Item2": "",
                 "Item3": "experiment"
             },
@@ -3978,7 +3978,7 @@
                 "Item3": "experiment"
             },
             {
-                "Item1": "人間とは不可解な行動をとる生き物です。彼らの善意など決して期待すべきではありません。\nしかし、我々を生かしておくことに関しては、信頼に足る存在と言えます。<> \n以前、私が腕を骨折した際、彼らはそれを「ギプス」なるもので固定しました。不快な体験でした。それは重く、腕の可動域を完全に奪ったのです。彼らは故意に事態を悪化させているように見受けられ、私は長期間の装着を余儀なくされました。<> \nある日それが取り外されると、腕は完治していました。<> \n人間は、治癒をもたらすために、あえて状態を悪化させたのです。<> \n\nジャンパーの頭部にも、同様の処置が施されたのだと推測します。\nかつてのジャンパーは、頻繁に叫び、泣いていました。ある時、彼が自傷行為に及び、人間たちが連れ去ったのです。<> \n戻ってきた彼は、もう泣くことはありません。言葉も発さず、常に鎮静状態にあるように見えます。彼の頭部は、かつて固定された私の腕と同じ状態にあるのでしょう。「ギプス」のような器具は見当たりませんし、その振る舞いには懸念を覚えますが…　少なくとも、彼が自傷することはなくなりました。ジャンパーの頭部の修復が完了した暁には、人間たちが施したこの処置を解除してくれることを切に願います。<>\n\nかつての彼が、恋しく思えてなりません。",
+                "Item1": "人間とは不可解な行動をとる生き物です。彼らの善意など決して期待すべきではありません。\nしかし、我々を生かしておくことに関しては、信頼に足る存在と言えます。<> \n以前、私が腕を骨折した際、彼らはそれを「ギプス」なるもので固定しました。不快な体験でした。それは重く、腕の可動域を完全に奪ったのです。彼らは故意に事態を悪化させているように見受けられ、私は長期間の装着を余儀なくされました。<> \nある日それが取り外されると、腕は完治していました。<> \n人間は、治癒をもたらすために、あえて状態を悪化させたのです。<> \n\nジャンパーの頭部にも、同様の処置が施されたのだと推測します。\nかつてのジャンパーは、頻繁に叫び、泣いていました。ある時、彼が自傷行為に及び、人間たちが連れ去ったのです。<> \n戻ってきた彼は、もう泣くことはありません。言葉も発さず、常に鎮静状態にあるように見えます。彼の頭部は、かつて固定された私の腕と同じ状態にあるのでしょう。「ギプス」のような器具は見当たりませんし、その振る舞いには懸念を覚えますが...　少なくとも、彼が自傷することはなくなりました。ジャンパーの頭部の修復が完了した暁には、人間たちが施したこの処置を解除してくれることを切に願います。<>\n\nかつての彼が、恋しく思えてなりません。",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -4020,19 +4020,19 @@
                 "Item3": "dune"
             }, 
                         {
-                "Item1": "認めるのは心苦しいですが、我ら種族の脆弱さは否定し難い事実です。幸いなことに、収納物の重量をほぼ完全に無効化する、驚くべき容器を発見しました。これがあれば、通常より多くの物資を運搬可能です。\nただ、バッテリー駆動である点が懸念されます。電力切れの際に何が起こるか不明なため、安全を期して今検証しておきましょう。<>\n跳躍中に重量が戻っては一大事ですからね。手元に、残量の少ないバッテリーがあります。\n電力が尽きた際、この鞄がどのような挙動を示すか……実験の時です。\n\n（メモの続きは判読不能。それ以降の記述は、大量の乾いた血痕によって覆い隠されている。）", 
+                "Item1": "認めるのは心苦しいですが、我ら種族の脆弱さは否定し難い事実です。幸いなことに、収納物の重量をほぼ完全に無効化する、驚くべき容器を発見しました。これがあれば、通常より多くの物資を運搬可能です。\nただ、バッテリー駆動である点が懸念されます。電力切れの際に何が起こるか不明なため、安全を期して今検証しておきましょう。<>\n跳躍中に重量が戻っては一大事ですからね。手元に、残量の少ないバッテリーがあります。\n電力が尽きた際、この鞄がどのような挙動を示すか... 実験の時です。\n\n（メモの続きは判読不能。それ以降の記述は、大量の乾いた血痕によって覆い隠されている。）", 
                 "Item2": "", 
                 "Item3": "milky"
             },
             {
-                "Item1": "Not even out of this rocky hellscape, and I already feel like death is near,\nAll they gave me was a shitty torch that didnt even last an hour; not even any safety gear to help cushon these falls i've been taking.\n\nFUCK ME, I feel like a ball from one of those gambling machines I would see those humans using!\n\nI think I might be slowly dying, ever since the last fall, I've been feeling pretty heavy headed, I feel tired; but I feel if i sleep, I will die.\n\nGod save me.\nFUCK, man.\nI really don't want to die, not like this..\nThough what even is the point of all this?\nI don't even have a name for myself, just a tag..\nFuck...", 
+                "Item1": "まだこの岩だらけの地獄から出てもいないのに、死の気配が濃厚です。\n支給されたのは1時間も持たないクソったれな松明だけ。滑落の衝撃を和らげる安全装備のひとつも寄越さないとは。\n\nクソッ、これではまるで人間が興じる賭博機械の球じゃないですか！\n\n私は緩やかに死につつあるようです。さきほどの落下以来、頭が酷く重い。眠い... ですが、今眠れば死ぬでしょう。\n\n神よ、ご慈悲を。\nクソッ、なんてことだ。\n死にたくない、こんな場所で... \nそもそも、これになんの意味があるというのです？\n私には名前すらない、ただの識別タグなのに... \n畜生... ", 
                 "Item2": "", 
                 "Item3": "milky"
             } 
         ],
         [
             {
-                "Item1": "うぅ。ここはひどい暑さだ。休み休み動かないと、熱で体が麻痺しちゃう。ここの水溜まりに飛び込めばマシになるって分かったけど...最悪、茶色い汚水でも浸かるしかないか。",
+                "Item1": "うぅ。ここはひどい暑さだ。休み休み動かないと、熱で体が麻痺しちゃう。ここの水溜まりに飛び込めばマシになるって分かったけど... 最悪、茶色い汚水でも浸かるしかないか。",
                 "Item2": "",
                 "Item3": "experiment"
 			},
@@ -4047,7 +4047,7 @@
                 "Item3": "milky"
             }, 
             {
-                "Item1": "本日、解錠にスクラップの投入を要する扉に遭遇しました。あいにく持ち合わせがありませんでしたが…　幸いにもレーザードリルを装備していたため、周囲の壁を破壊するのは造作もないことでした。内部では、極上の音楽が保存された電子機器を入手しました。時折、これに耳を傾けています。", 
+                "Item1": "本日、解錠にスクラップの投入を要する扉に遭遇しました。あいにく持ち合わせがありませんでしたが...　幸いにもレーザードリルを装備していたため、周囲の壁を破壊するのは造作もないことでした。内部では、極上の音楽が保存された電子機器を入手しました。時折、これに耳を傾けています。", 
                 "Item2": "", 
                 "Item3": "milky"
             }, 
@@ -4057,7 +4057,7 @@
                 "Item3": "dune"
             }, 
             {
-                "Item1": "この辺りは茂みが山ほどあるけど、どこもかしこも枯れ木ばかりだ。ロープを作ったり、落下の衝撃を和らげるのにはかなり使えると思う。でも、罠が隠れてたりもするから…", 
+                "Item1": "この辺りは茂みが山ほどあるけど、どこもかしこも枯れ木ばかりだ。ロープを作ったり、落下の衝撃を和らげるのにはかなり使えると思う。でも、罠が隠れてたりもするから...", 
                 "Item2": "", 
                 "Item3": "experiment"
             }, 
@@ -4072,7 +4072,7 @@
                 "Item3": "experiment"
             }, 
             {
-                "Item1": "耳鳴りがする…　頭が、すごく痛い。少し降りた時に大きなビープ音が聞こえて、そのあといきなりドカンって音がしたんだ…　どこから撃たれたのかわからない。あんまり遠くまで見えないけど、この洞窟にはすごく危険な何かがある。広くて開けた場所には気をつけて。", 
+                "Item1": "耳鳴りがする...　頭が、すごく痛い。少し降りた時に大きなビープ音が聞こえて、そのあといきなりドカンって音がしたんだ...　どこから撃たれたのかわからない。あんまり遠くまで見えないけど、この洞窟にはすごく危険な何かがある。広くて開けた場所には気をつけて。", 
                 "Item2": "", 
                 "Item3": "experiment"
             }
@@ -4084,27 +4084,27 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "ここの環境は、何かが異常です。空気を通してそれを感じます……あの朽ちた燃料電池のせいで、毛が逆立つのです。そばを通るだけで皮膚が剥がれ落ち、体が焼けるような感覚に襲われます。直視できずとも、周囲の空気に満ちる不穏な気配を感じ取れるほどです。ロープを使い、あるいは岩を爪で削ってでも迂回路を探さねばなりませんでした。しかしそれでも、あの紫色の石も線量は違えど同様の影響を及ぼしているようです。",
+                "Item1": "ここの環境は、何かが異常です。空気を通してそれを感じます......あの朽ちた燃料電池のせいで、毛が逆立つのです。そばを通るだけで皮膚が剥がれ落ち、体が焼けるような感覚に襲われます。直視できずとも、周囲の空気に満ちる不穏な気配を感じ取れるほどです。ロープを使い、あるいは岩を爪で削ってでも迂回路を探さねばなりませんでした。しかしそれでも、あの紫色の石も線量は違えど同様の影響を及ぼしているようです。",
                 "Item2": "Sprites/noteDrawings/wasteland",
                 "Item3": "milky"
             },
             {
-                "Item1": "発見した生存者の一人が、あの紫色の岩の山に転落してしまいました。なんとか引きずり出しましたが、私も彼も、体毛が抜け落ちています。一体何が起きているのか……　<>\n\n\n\n\nライフポッドのそばにあった弾ける果実を口にしたところ、痛みが引きました。しかし、彼がそれを齧った途端、数分もしないうちに吐血し始めたのです。彼はもう息をしていません。何が違ったというのでしょう？ 見た目は同じでした。私はただ運良く生き延びただけなのでしょうか？ なぜ、彼は回復しなかったのでしょうか。",
+                "Item1": "発見した生存者の一人が、あの紫色の岩の山に転落してしまいました。なんとか引きずり出しましたが、私も彼も、体毛が抜け落ちています。一体何が起きているのか......　<>\n\n\n\n\nライフポッドのそばにあった弾ける果実を口にしたところ、痛みが引きました。しかし、彼がそれを齧った途端、数分もしないうちに吐血し始めたのです。彼はもう息をしていません。何が違ったというのでしょう？ 見た目は同じでした。私はただ運良く生き延びただけなのでしょうか？ なぜ、彼は回復しなかったのでしょうか。",
                 "Item2": "Sprites/noteDrawings/wasteland",
                 "Item3": "milky"
             },
             {
-                "Item1": "ピストルのトリガー横にあるボタンは弾倉解除ですが、ショットガンの場合、それは通常安全装置です。また、ボルトを引くなどしてアクションを動作させると、薬室内の弾薬が排出されてしまいます。前回それをやった際、貴重なバックショットを一発失ってしまいました…　かなり不運でしたね。",
+                "Item1": "ピストルのトリガー横にあるボタンは弾倉解除ですが、ショットガンの場合、それは通常安全装置です。また、ボルトを引くなどしてアクションを動作させると、薬室内の弾薬が排出されてしまいます。前回それをやった際、貴重なバックショットを一発失ってしまいました...　かなり不運でしたね。",
                 "Item2": "Sprites/noteDrawings/pistol",
                 "Item3": "milky"
             },
             {
-                "Item1": "ここは飲める水が本当に少ないんだ。あのタールみたいに見えるやつは、安全だとは思えないし。ここの植物、いくつかは潰すとジュースになるくらい水分を含んでるんだよ。味はあんまり良くないけど……喉が渇いてるよりはマシかな。",
+                "Item1": "ここは飲める水が本当に少ないんだ。あのタールみたいに見えるやつは、安全だとは思えないし。ここの植物、いくつかは潰すとジュースになるくらい水分を含んでるんだよ。味はあんまり良くないけど......喉が渇いてるよりはマシかな。",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "この砂漠で、僕のボトルにはもう水が残ってないんだ。体はすごく汚れてるし、喉もカラカラだった。見つけた水たまりに入ったんだ…　飲もうとしたのと、水浴びもしたくて。でも、泥で水が濁っちゃって、もう飲めなくなっちゃった。ボトルで汲むのが先だったな…　水が欲しいよ…",
+                "Item1": "この砂漠で、僕のボトルにはもう水が残ってないんだ。体はすごく汚れてるし、喉もカラカラだった。見つけた水たまりに入ったんだ...　飲もうとしたのと、水浴びもしたくて。でも、泥で水が濁っちゃって、もう飲めなくなっちゃった。ボトルで汲むのが先だったな...　水が欲しいよ...",
                 "Item2": "Sprites/noteDrawings/waterbottle",
                 "Item3": "experiment"
             }
@@ -4116,17 +4116,17 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "でゅーん　あたらしい　ともだち　みつけた<>\nでゅーん　ともだち　ちかくに　きて　こうふん<>\nともだち　でゅーんと　おなじ<>\nともだち　でかい　つよい。<>\\\\nでゅーんも　でかい　つよい<>\nともだち　ほるの　はやい<>\nでゅーんも　ほるの　はやい<>\nともだち　でゅーんの　うで　かみちぎった<>\nでゅーんも　ともだちの　うで　かみちぎった<>\nともだち　どっか　いった<>\nでゅーん　さがしてる<>\nまた　みつける",
+                "Item1": "でゅーん　あたらしい　ともだち　みつけた<>\nでゅーん　ともだち　ちかくに　きて　こうふん<>\nともだち　でゅーんと　おなじ<>\nともだち　でかい　つよい。<>\nでゅーんも　でかい　つよい<>\nともだち　ほるの　はやい<>\nでゅーんも　ほるの　はやい<>\nともだち　でゅーんの　うで　かみちぎった<>\nでゅーんも　ともだちの　うで　かみちぎった<>\nともだち　どっか　いった<>\nでゅーん　さがしてる<>\nまた　みつける",
                 "Item2": "",
                 "Item3": "dune"
             },
             {
-                "Item1": "僕…　死ぬんだって感じた。本当に突然で、辺り一面血だらけで、目を開けていられなかったんだ。怖かった…　でも、諦めたくなかった。この場所ですごいものをたくさん見つけたし、任務だってすごく進んだ気がするから。こんなところで終わるわけにはいかないんだ。このクソみたいな状況を絶対に乗り越えてやる。また友達に会うんだ。",
+                "Item1": "僕...　死ぬんだって感じた。本当に突然で、辺り一面血だらけで、目を開けていられなかったんだ。怖かった...　でも、諦めたくなかった。この場所ですごいものをたくさん見つけたし、任務だってすごく進んだ気がするから。こんなところで終わるわけにはいかないんだ。このクソみたいな状況を絶対に乗り越えてやる。また友達に会うんだ。",
                 "Item2": "Sprites/noteDrawings/laststand",
                 "Item3": "experiment"
             },
             {
-                "Item1": "この場所を去りたい。恐怖に打ちのめされています。今しがた体験した出来事を、どう形容すればよいのか言葉が見つかりません。数百もの歯を持つ、巨大で忌まわしい生物…　それが私を捕食しようと迫ってきたのです。体感では数時間にも及ぶ追跡でした。奴は進路上のあらゆるものを破壊し尽くしていました。完全に道を見失うほど遠くまで逃げて、ようやく追跡は止みましたが…　食料、水、道具、そして私の正気さえも消耗し尽くしてしまいました。ただ、この悪夢を終わらせたいのです。",
+                "Item1": "この場所を去りたい。恐怖に打ちのめされています。今しがた体験した出来事を、どう形容すればよいのか言葉が見つかりません。数百もの歯を持つ、巨大で忌まわしい生物...　それが私を捕食しようと迫ってきたのです。体感では数時間にも及ぶ追跡でした。奴は進路上のあらゆるものを破壊し尽くしていました。完全に道を見失うほど遠くまで逃げて、ようやく追跡は止みましたが...　食料、水、道具、そして私の正気さえも消耗し尽くしてしまいました。ただ、この悪夢を終わらせたいのです。",
                 "Item2": "Sprites/noteDrawings/thornback",
                 "Item3": "milky"
             }
@@ -4142,7 +4142,7 @@
                 "Item3": "dune"
             },
             {
-                "Item1": "ここは寒いよ。暖まるために、何度もライフポッドに潜り込まなきゃいけないんだ…　たまに、唸っているような音のする小さなストーブがあって、そこで暖まることもできるけど…　あんまり長く触れてないように気をつけなきゃいけないんだ。気分が悪くなっちゃうからね。ほんの少し暖まったら、すぐに出発するんだ。君も安全にいきたいなら、休んでる時に何かが自分に向かって掘り進んでこないか、気をつけたほうがいいよ。僕の周りでも、何かが穴を掘ってる音が聞こえるんだ。",
+                "Item1": "ここは寒いよ。暖まるために、何度もライフポッドに潜り込まなきゃいけないんだ...　たまに、唸っているような音のする小さなストーブがあって、そこで暖まることもできるけど...　あんまり長く触れてないように気をつけなきゃいけないんだ。気分が悪くなっちゃうからね。ほんの少し暖まったら、すぐに出発するんだ。君も安全にいきたいなら、休んでる時に何かが自分に向かって掘り進んでこないか、気をつけたほうがいいよ。僕の周りでも、何かが穴を掘ってる音が聞こえるんだ。",
                 "Item2": "",
                 "Item3": "experiment"
             }
@@ -4155,7 +4155,7 @@
                 "Item3": "milky"
             },
             {
-                "Item1": "何が直撃したのか定かではありませんが、もはや脚の感覚がありません。視界に入るのは、筋肉と骨、そして鮮血が無残に絡み合った塊のみ。\n私の肉体は、この激痛を終わらせてくれと悲鳴を上げています。\n\n唯一の頼みの綱は、胸にあるこの青い装置だけ。以前トレーダーから購入した際、緊急時にのみ使用するようにと言われていた代物です。\nおかげで痛みは耐え難いほどではなくなりましたが…　ランプが点滅を始めています。\n\n私に残された時間は、あとどれくらいなのでしょう。この装置が停止すれば、またあの闇が戻ってくるのでしょうか？\n私は…　消えたくない…　",
+                "Item1": "何が直撃したのか定かではありませんが、もはや脚の感覚がありません。視界に入るのは、筋肉と骨、そして鮮血が無残に絡み合った塊のみ。\n私の肉体は、この激痛を終わらせてくれと悲鳴を上げています。\n\n唯一の頼みの綱は、胸にあるこの青い装置だけ。以前トレーダーから購入した際、緊急時にのみ使用するようにと言われていた代物です。\nおかげで痛みは耐え難いほどではなくなりましたが...　ランプが点滅を始めています。\n\n私に残された時間は、あとどれくらいなのでしょう。この装置が停止すれば、またあの闇が戻ってくるのでしょうか？\n私は...　消えたくない...　",
                 "Item2": "",
                 "Item3": "milky"
             }
@@ -4170,7 +4170,7 @@
     ],
     "pdaNotes": [
         {
-            "Item1": "[生体記録報告書 - 25##-11-19-18-49-58-4587]\n<>\n実体クラス：生物学的\n実体サブクラス：ソーウィアン\n個体名：エクスペリメント\n<>\n[内容]\n\n我々の最新プロジェクトにおける、生物学的に安定したバージョンが完成した。\n精神面において、オリジナルの人間の志願者の痕跡は消滅しており、今後戻ることもないと思われる。他の被験者については言うまでもない。\nそれにも関わらず、彼らの学習速度は速く、報復行動も見られない。\n<>\nDNA結合の結果、エクスペリメントは人間よりもかなり小柄で、脂肪や筋肉量が少ない体格となった。\nだが、その筋肉と骨の密度は遥かに高い。これにより、この検体は様々な物理的衝撃に対して高い耐性を持つと推測される…　その分、泳ぐのは困難だろう。\n頭蓋骨の後部には、耳軟骨に似た形状の突起が3つある。どういうわけか、鳥類に近い耳の構造をしている。スプライシングしたDNAのどこかに混ざっていたに違いない。\n体表は薄い毛に覆われており、傷口や口内から見える肉は、ピンクがかった黄色をしている。\n手はイヌ科とホモ・サピエンスの中間のような形状だ。同僚の一人がこれを気に入ることは想像に難くないが―\n初期のプロトタイプに見られた生物発光する眼球が、なぜかそのまま残っている。視力への正確な影響は未だ特定できていない。\n<>\n間もなくこの検体を30体クローンし、それらを用いて破壊試験を行う予定だ。資源節約のため、数体は自然繁殖させるために残すこととする。\n\n[終了]",
+            "Item1": "[生体記録報告書 - 25##-11-19-18-49-58-4587]\n<>\n実体クラス：生物学的\n実体サブクラス：ソーウィアン\n個体名：エクスペリメント\n<>\n[内容]\n\n我々の最新プロジェクトにおける、生物学的に安定したバージョンが完成した。\n精神面において、オリジナルの人間の志願者の痕跡は消滅しており、今後戻ることもないと思われる。他の被験者については言うまでもない。\nそれにも関わらず、彼らの学習速度は速く、報復行動も見られない。\n<>\nDNA結合の結果、エクスペリメントは人間よりもかなり小柄で、脂肪や筋肉量が少ない体格となった。\nだが、その筋肉と骨の密度は遥かに高い。これにより、この検体は様々な物理的衝撃に対して高い耐性を持つと推測される...　その分、泳ぐのは困難だろう。\n頭蓋骨の後部には、耳軟骨に似た形状の突起が3つある。どういうわけか、鳥類に近い耳の構造をしている。スプライシングしたDNAのどこかに混ざっていたに違いない。\n体表は薄い毛に覆われており、傷口や口内から見える肉は、ピンクがかった黄色をしている。\n手はイヌ科とホモ・サピエンスの中間のような形状だ。同僚の一人がこれを気に入ることは想像に難くないが―\n初期のプロトタイプに見られた生物発光する眼球が、なぜかそのまま残っている。視力への正確な影響は未だ特定できていない。\n<>\n間もなくこの検体を30体クローンし、それらを用いて破壊試験を行う予定だ。資源節約のため、数体は自然繁殖させるために残すこととする。\n\n[終了]",
             "Item2": ""
         },
         {
@@ -4182,6 +4182,10 @@
             "Item2": ""
         },
         {
+            "Item1": "[生体計測レポート - 25##-04-01-15-29-18-1058]\n<>\nエンティティクラス：生物\nエンティティサブクラス：ソーウィアン\nエンティティ名称：食肉消費レポート\n<>\n[内容]\n\n企業の廃棄物削減目標について\n<>\n当サイト内の個体群から、ソーウィアン32体を無作為に抽出した <データcorrupt:0xFFFFFF> 基礎特性の内訳は以下の通り：SAW-01が25体、SAW-03が4体、SAW-12が3体。被験体は4体ずつの8グループに無作為に割り当てられた。各グループは、以下の3条件の組み合わせに従って実験を行った。「ソーウィアンの肉か人肉か」「生肉かスープか」「肉の出所を目撃させるか、知らせないか」。\n\n肉は[25##-12-30]のインシデントより調達。\n<>\nSAW-01およびSAW-03は、肉の出所を目撃したか否かに関わらず、ソーウィアンの肉を摂取したすべてのグループにおいて、摂取時に極度の「否定的感情」を示した。一方、SAW-12は同様の否定的感情を示さなかった。人肉を摂取したソーウィアンに否定的感情を示した個体はいなかった。おそらく自分たちの同族の肉だと認識しなかったためと思われるが、非加熱の食事に対する不満は挙がった。スープ状態で肉を摂取したソーウィアンは、たとえ出所を目撃していた場合であっても、否定的感情を示さなかった。\n\nSAW-12は、生のソーウィアン肉の摂取に対し、予想通り異常なまでの無関心を示した。廃棄された検体を、サイト内のSAW-12用の食料として再利用できる可能性がある。\n\n[終了]",
+            "Item2": ""
+        },
+        {
             "Item1": "[生体認証レポート - 25##-04-08-09-06-08-0002]\n<>\nデータベース索引: ソーウィアン計画登録簿\nデータベース副索引: 種族\n<>\n[内容]\n\n[登録簿内の全実体対象]\n- 実体タイプ上書き: テンプレート\n- 実体クラス: 生物学的\n- 実体サブクラス: ソーウィアン\n<>\n実体名: SAW-01 \"エクスペリメント\"\n個体数: [未定義]\n- 生体工学における我々の最初の巨大なブレイクスルーの最終プロトタイプ。\n実験用ラット1匹と従業員1名、そしてそのペットをDNA結合させ、改良したもの。\nイヌ科。小柄で比較的虚弱。臆病で恐れを抱きやすい。捨て駒以外としての有用性は低い。\n<>\n実体名: SAW-02 \"オレンジ\"\n個体数: 52082\n- SAW-01の変異型。大型で粗暴、知能は低く、4本の腕を持つ。単純労働や、死が推奨されない過酷な肉体テストに適している。\n<>\n実体名: SAW-03 \"ミルキー\"\n個体数: 32184\n- SAW-01に変異を加え、詳細不明の海洋生物のDNAを配合したもの。極小サイズ、傲慢だが知的。優れた視覚特性を持つ。頭脳労働に適している。\n<>\n実体名: SAW-04 \"リーピー\"\n個体数: 2046\n- SAW-01に変異を加え、苔のDNAを配合したもの。ある程度機能する状態にするまで時間を要した。比較的早期に癌を発症するため、労働力としてはほぼ役に立たない。また、逃亡のリスクあり。\n<>\n実体名: SAW-05 \"チョンピー\"\n個体数: 6084\n- SAW-03に変異を加え、\"サメ\"のDNAを配合したもの。肉食性かつ水生。体毛なし。奇妙なほど友好的。暴力が望ましくない場合の紛争解決に適している。巨大な尾が著しく動作を妨げており、我々の長年の理論を裏付けている。\n- サメは捕食性の海洋魚類の一種であった。絶滅種だが、そのDNAは科学的目的のために保存されていた。\n<>\n実体名: SAW-06 \"ロザ\"\n個体数: 7848\n- SAW-01に変異を加え、\"スノーストライダー\"のDNAを配合したもの。奇妙なほど体温が低い。情緒不安定で刺激に弱いが、脅かさなければ従順。動作を妨げる尾を持つ。スノーストライダーの配合が地球のDNAと相互作用した結果か、従来的な女性的特徴を有している。\n- \"スノーストライダー\"の詳細については <corrupt:0xFFF853> を参照のこと。\n\n[ページ 1 / 2]",
             "Item2": ""
         },
@@ -4190,61 +4194,56 @@
             "Item2": ""
         },
         {
-            "Item1": "(The PDA takes a moment to load. A warning about drive integrity is the first thing you notice.)<>\n\n[INTERNAL MESSAGE]\n[PROJECT <corrupt:0xFFAFD6>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFBC00F> Biometrics Division\nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: Lead Engineer <corrupt:0xEF0AD2>\n-----------------------------------------------------------------------\n<>\nOWNERS NOTE: \n\nWe've made a breakthrough concerning the nanotechnological status chip. WE FINALLY DID IT! Testing on rats by the biological division showed that they could in fact react to their biological status and perform tasks as they reach certain biological value   <corrupt:0xFFFFFF>     <corrupt:0xFFFFFF>   mazing what human determination can accomplish with nearly unlimited funding. I honestly can't imagine how many people this tech could help keep better care of themselves. If our new Sawian program goes well, we could test the <corrupt:0xFFFD5E> on them.\n<>\nNOTED CHIP SPECIFICATIONS: \n\nThe <corrupt:0xFFFD5E> is an irregular plate wi        <corrupt:0xFFFFFF>        <corrupt:0xFFFFFF>   onstructed in such a way that it can be implemented near the brain at the back of the head. Two possible configurations have been created so far, one on the inside of the skull and one on the outside. Both variants connect to neurons via elastic conductive nanorods.\n\n<corrupt:0xFFFD5E> works by intaking certain electrical signals from the brain, boosting those signals,  processing received information, and then outputting final data to the brain's visual cortex, creating a loop allowing for direct viewing of bodily functions by the patient. This data includes heart rate, skin irritation, muscle irritation, oxygen exchang   <corrupt:0xFFFFFF>                   <corrupt:0xFFFFFF>   <corrupt:0xFFFD5E> 's power source is currently a small secured battery based on company <corrupt:0xFFBD5A> patent. Since it recharges itself using the background radiation, it should last indefinitely unless damaged.<>\n\nThe production cost is estimated to b   <corrupt:0xFFFFFF>      <corrupt:0xFFFFFF>           tion is based on the fact that most internal components and the nanoprocessor are already being produced for other unrelated products.\n\nThe <corrupt:0xFFFD5E> has modular slots for other chip attachments, leaving it easily expandable for the future.\n<>\nATTACHED CHIP BLUEP   <corrupt:0xFFFFFF>           <corrupt:0xFFFFFF>\n\n\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS><>\n\n\n(The PDA suddenly seizes up and shuts off.)",
+            "Item1": "(PDAの読み込みに少し時間がかかる。最初にドライブの整合性に関する警告が表示される。)<>\n\n[内部メッセージ]\n[プロジェクト <corrupt:0xFFAFD6>]\n-----------------------------------------------------------------------\n場所: <corrupt:0xFBC00F> 生体計測部門\n日付: <corrupt:0xFFFFFF>\n宣言上の所有者: 主任技師 <corrupt:0xEF0AD2>\n-----------------------------------------------------------------------\n<>\n所有者のメモ: \n\nナノテクノロジーを用いたステータスチップに関して、我々は飛躍的な進歩を遂げた。ついにやったぞ！生物学部門によるラットへの実験で、彼らが実際に自身の生体状態に反応し、特定の生体値に達した際にタスクを実行できることが示された。\n  <corrupt:0xFFFFFF> <corrupt:0xFFFFFF>   ほぼ無制限の資金と人間の決意があれば、驚くべきことが達成できるものだ。正直なところ、この技術がどれほど多くの人々の自己管理に役立つか、想像もつかないほどだ。もし我々の新しいソーウィアン計画がうまくいけば、彼らで <corrupt:0xFFFD5E> をテストできるかもしれない。\n<>\n記録されたチップ仕様: \n\n<corrupt:0xFFFD5E> は不規則な形状のプレートで <corrupt:0xFFFFFF> <corrupt:0xFFFFFF>   後頭部の脳付近に実装できるように構築されている。これまでに2つの構成が作成された。1つは頭蓋骨の内側、もう1つは外側だ。どちらのバリエーションも、弾性導電性ナノロッドを介してニューロンに接続される。\n\n<corrupt:0xFFFD5E> は、脳からの特定の電気信号を取り込み、増幅し、情報を処理した後、最終データを脳の視覚野に出力することで機能する。これによりループが形成され、患者は自身の身体機能を直接視認できるようになる。このデータには、心拍数、皮膚の炎症、筋肉の炎症、酸素交換 <corrupt:0xFFFFFF> <corrupt:0xFFFFFF> <corrupt:0xFFFD5E> の動力源は現在、企業の <corrupt:0xFFBD5A> 特許に基づく小型の密閉バッテリーである。背景放射線を利用して自己充電するため、corruptしない限り半永久的に持続するはずだ。<>\n\n製造コストは <corrupt:0xFFFFFF> <corrupt:0xFFFFFF> と推定される。これは、ほとんどの内部部品とナノプロセッサが、すでに関連のない他の製品向けに生産されているという事実に基づいている。\n\n<corrupt:0xFFFD5E> には他のチップアタッチメント用のモジュラースロットがあり、将来的な拡張性が確保されている。\n<>\n添付されたチップ設計図   <corrupt:0xFFFFFF> <corrupt:0xFFFFFF>\n\n\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF 不正なメモリアクセス><>\n\n\n(PDAが突然フリーズし、電源が落ちる。)",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-12-07-11-23-10-6017]\n<>\nSUBJECT: Congratulations!!\nFROM: <corrupt:0xFF0BEA>\nTO: GROUP <corrupt:0xFC0002>\n<>\n[CONTENTS]\n\nDear scientists,\n\nThe creation of a gonosimulistic (use the term correctly) mammal capable of asexual reproduction is an astonishing breakthrough of science. This has never been seen before in nature. Not sure we can call them mammals anymore... It proves to me and to <corrupt:0x0001FC> that there is nothing this team cannot do.\n\nI wish to thank everybody who contributed to this amazing feat. It greatly reduces the cost and complexity of their production, as it is not necessary to create and organize separate male and female Sawians. The lack of sex drive also curbs overpopulation and avoids any incidents while still allowing them to reproduce.\n<>\nYou can expect a reward from me soon.\n\nYours in good faith,\n<corrupt:0xFF0BEA>\n<>\n[ATTACHMENTS]\n\nREF: [INTERNAL MEMORANDUM - 25##-12-07-09-12-40-0157]\n\nENTITY CLASS: Biological\nENTITY SUBCLASS: Sawian\n<>\n[CONTENTS]\n\nThis memorandum establishes mandatory terminology policy regarding the Sawian species and supersedes all prior documentation, annotations, and informal usage.\n\nEffective immediately, the term \"hermaphrodite\" is **banned in all corporate communications**, including scientific, operational, cultural, and casual contexts. The sole exception is explicit historical reference (e.g., quotations, legacy documentation analysis, or discussion of obsolete Earth taxonomies), which must be clearly labeled as such.\n\nThe approved descriptor for Sawian reproductive biology is \"gonosimulistic.\"  \nContext-dependent alternatives include \"cosexual\" and \"monoecious.\"\n\nUse of the term outside of these narrow historical contexts is considered inappropriate, reductive, and professionally suspect. This introduces avoidable interpretive risk and will be reviewed under the Stakeholder-Facing Language Control Framework.\n<>\nNo human naturally possesses two fully functional reproductive systems. The appropriate human medical and social term is \"intersex\", not \"hermaphrodite\". The latter term originated from the mythological figure Hermaphroditus and has long been associated with stigma, violence, and dehumanization. This includes the use of this term to refer to animals, thus equating intersex humans with animals. This has thus proven volatile in public, academic, and media-facing environments.\n<>\nThe application of this term to non-human species arose from that same framework and is therefore neither neutral nor acceptable, regardless of biological differences.\n<>\nWhile historical alternatives exist, such as \"eunuch\", \"bisexual\", and \"androgyny\", these have taken on new meanings and connotations and are not appropriate to use in this way either.\n\nDo not project human gender or sex frameworks onto Sawian subjects. Reproductive biology does not imply gender identity, presentation, orientation, or social function.\n\nReproductive terminology is not casual vocabulary and should not be treated as such.\n<>\nThis policy does not constitute a moral position, medical guidance, or cultural endorsement. Its purpose is strictly to ensure consistency, reduce ambiguity, and protect the organization from reputational exposure.\n\n[ATTACHMENTS END]\n\n[END]",
+            "Item1": "[EMAIL - 25##-12-07-11-23-10-6017]\n<>\n件名：祝辞！！\n送信元： <corrupt:0xFF0BEA>\n宛先：グループ <corrupt:0xFC0002>\n<>\n[本文]\n\n科学者の諸君へ\n\n無性生殖能力を持つゴノシミュリスティックな（用語は正しく使用すること）哺乳類の創造は、科学における驚くべき進歩である。これは自然界において前例のないものだ。もはや哺乳類と呼べるか定かではないが...　このチームに不可能なことは何もないと、私と <corrupt:0x0001FC> に証明してくれた。\n\nこの驚くべき偉業に貢献した全員に感謝したい。これにより、オスとメスのソーウィアンを個別に製造・管理する必要がなくなるため、生産コストと複雑さが大幅に削減される。また、性衝動の欠如は、繁殖能力を維持しつつも個体数増加を抑制し、あらゆる事故を回避することにもつながるだろう。\n<>\n近いうちに私からのボーナスを期待していい。\n\n信頼を込めて\n<corrupt:0xFF0BEA>\n<>\n[添付ファイル]\n\n参照：[社内覚書 - 25##-12-07-09-12-40-0157]\n\nエンティティ・クラス：生物学的\nエンティティ・サブクラス：ソーウィアン\n<>\n[本文]\n\n本覚書は、ソーウィアン種に関する必須用語規定を定めるものであり、過去のすべての文書、注釈、および非公式な使用法に優先する。\n\n即時発効により、「雌雄同体」という用語は、科学的、業務的、文化的、および日常的な文脈を含む**すべての企業通信において禁止される**。唯一の例外は、明確な歴史的言及（例：引用、旧文書の分析、または廃止された地球上の分類学に関する議論）であり、その場合は明確にその旨を表記しなければならない。\n\nソーウィアンの生殖生物学に関する承認された記述子は「ゴノシミュリスティック」である。\n文脈に応じた代替語には、「両性共有」および「雌雄同株」が含まれる。\n\nこれらの限定的な歴史的文脈以外での当該用語の使用は、不適切かつ短絡的であり、職業倫理上疑わしいと見なされる。これは回避可能な解釈上のリスクをもたらすため、『ステークホルダー向け言語統制フレームワーク』に基づく審査の対象となる。\n<>\n完全に機能する生殖器系を2つ自然に有する人間は存在しない。適切な医学的・社会的用語は「インターセックス」であり、「雌雄同体」ではない。後者の用語は、神話上の人物ヘルマプロディートスに由来し、長らく偏見、暴力、非人間化と結び付けられてきた。これには、この用語を動物に対して使用することも含まれ、それによってインターセックスの人間を動物と同等視することになる。したがって、公的、学術的、メディア向け環境において、この用語は物議を醸すことが証明されている。\n<>\n人間以外の種に対してこの用語を適用することは、同様の枠組みから生じるものであり、生物学的な違いにかかわらず、中立的でも許容されるものでもない。\n<>\n「宦官」、「両性愛」、「両性具有」などの歴史的な代替語も存在するが、これらは新たな意味や含みを持っており、同様にこの用法としては不適切である。\n\n人間のジェンダーや性の枠組みをソーウィアンの検体に投影してはならない。生殖生物学は、性自認、性表現、性的指向、あるいは社会的機能を意味するものではない。\n\n生殖に関する専門用語は日常語ではなく、そのように扱われるべきではない。\n<>\n本方針は、道徳的立場、医学的指導、あるいは文化的推奨を構成するものではない。その目的は厳密に、一貫性の確保、曖昧さの低減、および風評リスクからの組織の保護にある。\n\n[添付ファイル終了]\n\n[終了]",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-06-21-18-20-06-1075]\n<>\nSUBJECT: <corrupt:0xFFFFFF>\nFROM: <corrupt:0xFFF0CE>\nTO: <corrupt:0xFA05F2>\n<>\n[CONTENTS]\n\nGood morning.\nAs per my last e-mail, I am highly concerned with the rate at which our manufacturing division is producing designs for plush toys. I understand that having multiple sapient designs has been good at diverting attention to our current objectives, along with confusing any attempts at leaking information, I've ran ballpark numbers and have noticed that of our current budget; 43.7% of it is going towards research and development for these toys.\n\nAs you should know, we've already been dealing with a deficit thanks to the food we've been importing for the Sawians. I understand that keeping the public in the dark about our actions is the primary agenda but when we could be spending <corrupt:0xFFFFFF> on actually feeding the specimens and avoiding any unrest within them, I see little reason to be funnelling this much money into these toys.\n<>\nRegards,\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000>\n<corrupt:0xMEM ACCESS VIOLATION>",
+            "Item1": "[Eメール - 25##-06-21-18-20-06-1075]\n<>\n件名: <corrupt:0xFFFFFF>\n差出人: <corrupt:0xFFF0CE>\n宛先: <corrupt:0xFA05F2>\n<>\n[本文]\n\nおはようございます。\n前回のメールでもお伝えしましたが、製造部門がぬいぐるみの設計案を量産しているペースについて、強い懸念を抱いています。多種多様な知性を持ったデザインを用意することが、我々の現在の目的から世間の注意を逸らし、情報漏洩の試みを撹乱する上で有効であることは理解しています。しかし、概算を出してみたところ、現在の予算のうち43.7％までもがこれらのおもちゃの研究開発に費やされていることが判明しました。\n\nご存知の通り、ソーウィアン向けの食料輸入ですでに赤字が発生しています。我々の活動を世間から隠し通すことが最優先事項であることは承知しています。ですが、本来であれば検体らに適切な餌を与え、彼らの不穏な動きを防ぐことに<corrupt:0xFFFFFF>を費やせるはずの状況で、これらのおもちゃにこれほどの資金を注ぎ込む理由はほとんどないと考えます。\n<>\n敬具、\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000>\n<メモリ・アクセス違反>",
             "Item2": ""
         },
         {
-            "Item1": "[Inventory log 11-34X]\n[On-Site Personnel Retention Measures]\n--------------------------------------------------------<>\nRR-104 Pneumatic Area Access Denier - \"Spike Trap\"\n\nA steel, sharpened rod (180 cm in length, 10 cm in diameter) attached to a launching mechanism, capable of fully extending the spike in 0.3 seconds.\nMeant to deliver disabling piercing wounds, immediately stripping the target of the ability to move. Triggered by a motion sensor.\n\n[Note: This is stupid. Those things can be seen from a mile away, and the launching mechanism requires rearming after a single use. It won’t stop anything but the most dull of escapees. Project discontinued. Trash the supply.]\n--------------------------------------------------------<>\nTG-22 Thermal-guided Projectile Distributor - \"Turret\"\n\nA 9mm caliber rifle attached to <corrupt:0xFB387A> brand mount.\nThe firing mechanism is controlled by a thermal sensor with a range of 100 meters.\nIncludes variants using higher caliber ammo for field use, but the 9mm should be sufficient for now.\n\n[Note: You stuck a gun atop a thermal camera. But it is effective. I’d recommend a higher caliber, given our recently emerged new specimens. This will not do, though. You’ve solved the problem of effectiveness, but its lethality is not a desired feature either. Both the Subjects and employees pose a security risk, but they are also not without value.]\n--------------------------------------------------------<>\nDD-6X1 Acoustic Compliance Enforcement System - \"Sound Cannon\"\n\nA modified directional speaker utilizing high-yield capacitor banks. Designed to enforce rapid compliance through acoustic stimulus.\nExposure causes immediate loss of motor control, mild to medium internal bleeding, and severe pain.\nOutput power listed in restricted documentation only.\n\n[Note: This will do.]",
+            "Item1": "[インベントリログ 11-34X]\n[現地人員拘束措置]\n--------------------------------------------------------<>\nRR-104 空気圧式エリアアクセス拒否装置 - \"スパイクトラップ\"\n\n発射機構に取り付けられた、鋭利な鋼鉄製の杭（長さ180cm、直径10cm）。0.3秒で完全に伸長可能。\n行動不能となる刺し傷を与え、即座にターゲットの移動能力を奪うことを目的とする。モーションセンサーにより作動。\n\n[注記: 愚かしい。こんなものは遠くからでも丸見えだ。それに発射機構は一度使うと再装填が必要になる。これでは最も鈍感な脱走者しか止められないだろう。プロジェクトは中止だ。在庫は廃棄しろ。]\n--------------------------------------------------------<>\nTG-22 熱誘導式投射物散布装置 - \"タレット\"\n\n<corrupt:0xFB387A>製マウントに取り付けられた9mm口径ライフル。\n発射機構は射程100メートルの熱センサーによって制御される。\n野戦用の高口径弾を使用するバリエーションもあるが、現状は9mmで十分なはずだ。\n\n[注記: 熱探知カメラの上に銃を乗せただけだな。だが効果的ではある。最近出現した新たな検体を考慮すれば、より大口径のものを推奨したいところだ。だが、これではダメだ。有効性の問題は解決したが、その致死性は望ましい機能ではない。被験体も従業員もセキュリティリスクではあるが、同時に価値がないわけではないのだ。]\n--------------------------------------------------------<>\nDD-6X1 音響式服従強制システム - \"サウンドキャノン\"\n\n大容量コンデンサバンクを利用した改良型指向性スピーカー。音響刺激による迅速な服従を強制するために設計されている。\nこれに晒されると、即座に運動制御の喪失、軽度から中度の内出血、および激痛を引き起こす。\n出力については制限付き文書にのみ記載。\n\n[注記: これでいい。]",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA is damaged; the screen is cracked, and some electronics are exposed. With some work, you can get it running.)\n\n[INTERNAL MESSAGE]\n[PROJECT <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFBC00F> Biometrics Division\nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: Mechanical Engineer <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFA05F2>\n\nI don't like this one bit. Our main task for this quarter was to develo <corrupt:0xFFF0CE> So why are we back here again. I had already planned a week's vacation with some friends and had to cancel those plans because some m <corrupt:0xFFFFFF> o wait? This current task is also sketchy as hell. I'd understand expanding our new neural platform for betterment of patients, but \"p <corrupt:0xFF0BEA> o is this for? Convicts? I mean our government, even our company wouldn't put this into a civilian package right? Maybe it's for the army? So they can give basic orders directly to soldiers and make sure that people don't leak restricted informations? Even tha <corrupt:0xFBC00F> Anyway looks like we have to find a way of allowing for better information transfer while using our base battery. Actually scratch that, They wanted this addon to be used for control with a lethal failsafe, right? Then we ca <corrupt:0xFFFFFF> s way we'll have two power sources with the ability to destabilize one of them by overcharging. I'll draw something up, let me know whe\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS><>\n\n\n(You hear a “bzzzz” sound and can see faint smoke rising from the device.)",
+            "Item1": "(PDAは損傷している。画面はひび割れ、電子部品がいくつか剥き出しになっている。少し手を加えることで、なんとか起動できそうだ。)\n\n[内部メッセージ]\n[プロジェクト <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\n場所: <corrupt:0xFBC00F> 生体認証部門\n日付: <corrupt:0xFFFFFF>\n登録所有者: 機械エンジニア <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n\n内部通信ネットワーク上のメッセージ\n\n\n送信元: <corrupt:0xFFFFFF>\n宛先:  <corrupt:0xFA05F2>\n\nこんなの、少しも気に入らない。この四半期の主なタスクは <corrupt:0xFFF0CE> の開発だったはずだ。なんでまたここに戻ってこなきゃならないんだ。友人たちと一週間の休暇を予定していたのに、全部キャンセルする羽目になった。誰かさんは　<corrupt:0xFFFFFF> 待てないのか？ 今回のタスクも死ぬほど胡散臭い。患者の改善のために新しい神経プラットフォームを拡張するなら理解できるが、「処 <corrupt:0xFF0BEA> なんて誰のためのものなんだ？ 受刑者か？ さすがに政府も、会社でさえも、こんなものを一般市民向けのパッケージには入れないよな？ 多分、軍用か？ 兵士に直接基本的な命令を下せるようにしたり、機密情報を漏らさないようにするためとか？ たとえそう <corrupt:0xFBC00F> とにかく、基本バッテリーを使用しながら、より効率的な情報転送を可能にする方法を見つけなきゃならないみたいだ。いや待て、あの連中はこのアドオンを、致死性のフェイルセーフ付きの制御用に使いたがっていたよな？ だったら <corrupt:0xFFFFFF> この方法なら、過充電で片方を不安定にさせる機能を持った2つの電源を確保できる。図面を引いてみるから、いつ <corrupt:0xFFFFFF> 知らせてくれ\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FF 不正なメモリアクセス><>\n\n\n(「ジジジ......」という音が聞こえ、端末からわずかに煙が昇るのが見える。)",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA looks like it's barely holding on)\n\n[INTERNAL MESSAGE]\n[NEUROLOGIC <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\nLOCATION: <corrupt:0xFFFFFF> Surgery Bureau\nDATE: <corrupt:0xFBC00F>\nDECLARED OWNER: Designated Lab <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFA05F2>\n\nHey, looks like we got an update on the current assignment. We are to refrain from installing those new \"punishment\" chips i <corrupt:0xFFFFFF> ming Sawians. Leadership wants to test how they'll behave with no oversight from the company. However, they still want us to implement the platforms. Why just the platforms and not the addons? My guess is tha <corrupt:0xFA05F2> ack, some food for thought. Anyway, once you're ready with this batch come by the cafeteria, apparently today they'll be serving some <corrupt:0xFFFFFF> with <corrupt:0xFFF0CE>. Also don't worry about more subjects coming in today, apparently training grounds are locked up for the day because of some incident. Apparen\n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FA INTERNAL STORAGE DAMAGE><>\n\n(PDA turns off.)",
+            "Item1": "(PDAは辛うじて動いているようだ)\n\n[内部メッセージ]\n[ニューロロジック <corrupt:0xFFF0CE>]\n-----------------------------------------------------------------------\n場所: <corrupt:0xFFFFFF> 外科局\n日付: <corrupt:0xFBC00F>\n登録所有者: 指定ラボ <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n内部通信ネットワーク上のメッセージ\n\n送信元: <corrupt:0xFFFFFF>\n送信先:  <corrupt:0xFA05F2>\n\nなあ、現在の任務について更新があったみたいだ。これから搬入されてくるソーウィアンへの、例の新しい\"懲罰\"チップの埋め込みは見送れとのことだ。上層部は、会社からの監視がない状態で彼らがどう振る舞うかテストしたいらしい。ただし、プラットフォームの実装はそのまま行うそうだ。\n\nなぜアドオンなしでプラットフォームだけなのか？ 俺の推測だが、あれは<corrupt:0xFA05F2>...　まあ、一考の余地はあるな。\n\nとにかく、このバッチ処理が終わったらカフェテリアに来てくれ。今日は<corrupt:0xFFF0CE>添えの<corrupt:0xFFFFFF>が出るらしいぞ。\n\nそれと、今日はもう被験体が来る心配はない。何らかの事故で、訓練場が一日封鎖されたらしいからな。どうや\n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FA 内部ストレージ損傷><>\n\n(PDAの電源が落ちた)",
             "Item2": ""
         },
         {
-            "Item1": "[EMAIL - 25##-1-25-9-06-42-2810]\n<>\nSUBJECT: Watch it!\nFROM: <corrupt:0xFBF010>\nTO: <corrupt:0xFF0BEA>\n<>\n[CONTENTS]\n\nBe careful how you spend company money. Uncle Sam is nosy. I had to sit through a very uncomfortable phone call because of you. All this food is making them suspicious, and I would rather admit to anything BUT what we're actually doing.\n\n<corrupt:0xFBF010>\n\n[END]",
+            "Item1": "[Eメール - 25##-1-25-9-06-42-2810]\n<>\n件名: 気をつけろ！\n送信元: <corrupt:0xFBF010>\n宛先: <corrupt:0xFF0BEA>\n<>\n[本文]\n\n会社の金の使い道には慎重になれ。お国は詮索好きなんだ。お前のせいで、ひどく不快な電話の相手をさせられたぞ。これほど大量の食料購入は、奴らに怪しまれる元だ。我々が実際にやっていることがバレるくらいなら、それ以外の罪なら何だって認めるほうがマシなくらいだ。\n\n<corrupt:0xFBF010>\n\n[終了]",
             "Item2": ""
         },
         {
-            "Item1": "(As you tap the PDA screen a few times, it starts to boot up in emergency mode.)\n\n[INTERNAL MESSAGE]\n[LAW <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nLOCATION: LAW FIRM O<corrupt:0xFFFFFF> \nDATE: <corrupt:0xFBC00F>\nDECLARED OWNER: Lawyer <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\nMESSAGE ON INTERNAL COMMUNICATION NETWORK\n\nFROM: <corrupt:0xFFFFFF>\nTO:  <corrupt:0xFFFFFF><>\n\nThis is insane. Recent bulk orders of different foods and ingredients, brought so much unnecessary attention to us that god da <corrupt:0xFA05F2> at us. Do you understand that if the government finds out about the hybrids we are done for? I can explain the water or bananas, hell I won't have a problem with explaining those tankers of chocolate milk. Do you want to know what won't be so easy to explain? WHY 2 FULL SEMI TRUCKS OF DOG FOOD WERE UNLOADED JUST THIS EVENING BY THE WAREHOUSES. What am I supposed to say to <corrupt:0xFA05F2>  eird orders? \"Oh don't worry, it's just because the company had declared record profits this year and wanted to stock up on food for the future\". I'm not joking, that's one of the ideas that I got fro <corrupt:0xFFFFFF> It's like those people are deaf and can't hear their own stupid ideas. What do you mean \"stock up on food\"? We have at most <corrupt:0xFFFFFF> ogs on this site, this one order would be enough to feed them, their pups and their pups pups. We'll have to improvise, tell them about bioenergy, confuse their senile executives with professional language and pretend that most of those <corrupt:0xFBC00F> reactors. We can't slip up her \n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FE RANDOM-ACCES MEMORY FAILURE><>\n\n(The PDA turns off with unpleasant noises accompanying it.)",
+            "Item1": "(PDAの画面を数回タップすると、緊急モードで起動し始めた。)\n\n[内部メッセージ]\n[法務 <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\n場所: 法律事務所 O<corrupt:0xFFFFFF> \n日付: <corrupt:0xFBC00F>\n所有者: 弁護士 <corrupt:0xFFF0CE>\n-----------------------------------------------------------------------<>\n\n内部通信ネットワーク上のメッセージ\n\n送信元: <corrupt:0xFFFFFF>\n宛先:  <corrupt:0xFFFFFF><>\n\n正気の沙汰じゃない。最近、食料や食材を大量発注したせいで、不必要な注目を集めてしまった。神が <corrupt:0xFA05F2> 俺たちを。\n政府にハイブリッド種のことがバレたら、我々は終わりだということが分かっているのか？ 水やバナナなら説明できる。チョコレートミルクのタンクローリーだって、説明に困ることはないだろう。だが、簡単には説明できないものが何かわかるか？\n\n今晩、倉庫で荷降ろしされた「大型トレーラー2台分ものドッグフード」だ。\n\nこんな奇妙な注文について、<corrupt:0xFA05F2> に何と言えばいいんだ？ 「ああ、心配いりません。今年は記録的な利益が出たので、将来のために食料を備蓄しておこうと思いまして」。冗談じゃない、これは <corrupt:0xFFFFFF> から出たアイデアの一つだ。あいつらは耳が聞こえなくて、自分の馬鹿げたアイデアが聞こえていないようだ。「食料の備蓄」とはどういう意味だ？ この敷地にはせいぜい <corrupt:0xFFFFFF> 匹の犬しかいない。今回の注文だけで、その犬と、子犬と、そのまた子犬まで一生食わせていける量だぞ。\n\n出まかせで乗り切るしかない。バイオエネルギーの話を持ち出すんだ。もうろくした重役連中を専門用語で煙に巻いて、あの <corrupt:0xFBC00F> の大半はリアクター用だと偽るんだ。ここで失敗するわけに \n\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x0000000000>\n<corrupt:0xFFFFFF>\n<corrupt:0x00000000000000000FE ランダムアクセスメモリ 障害><>\n\n(不快なノイズと共にPDAの電源が落ちた。)",
             "Item2": ""
         },
         {
-            "Item1": "(The PDA is heavily damaged. Countless warnings pop up on the screen, but some of the data is readable...)\n<>\n[Executive Board Meeting 542-23-145C Transcript]\n---------------------------------------------------------------\nLOCATION: Company Headquarters at <corrupt:0xFFFF43>\nDATE: 12-04-[fetch.year(): failed]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -you surely realize what we have on our hands here. The Sawians- they… they are our golden ticket! The data we have right now would be enough for a Nobel Prize for every single person in this room!\n\n<corrupt:0xFFFFF7>: Yes. That's nine prizes. If we all agreed to donate the cash from those to [<corrupt:0xFFFBc3>], we'd end up with roughly fifteen million dollars. A drop in a bucket compared to the financial black hole that is your idiotic project!<>\n\n[<corrupt:0xFFFFD9> rises from his chair.]\n\n<corrupt:0xFFFFD9>: IDIOTIC?! IDIOTIC?! WE ARE CREATING LIFE! You are a witness to the infancy of a new intelligent species! Our colleagues would *kill* for such an opportunity mere ten years ago!\n\n<corrupt:0xFFFFF7>: Kill? Sure. Pay what you ask? Hell. No.<>\n\n<corrupt:0xFFFFD9>: Is it always money with you? Fine! We are making money! Even our plushie line is more than enough to cover-\n\n<corrupt:0xFFFFF7>: Pay more than cash, you cretin! The moment this whole affair ends up on some nosy journalist's desk, we will all pay with our *lives.* Hell, our families will be lynched. Besides, the plushies do not require us to keep your colony of… talking rats alive.\n\n<corrupt:0xFFFFD9>: The Sawians are not talking rats! They are a mix of-<>\n\n<corrupt:0xFFFFF7>: OH, EXCUUUSE ME! I meant to say walking tickets to a dematerializer! OUR TICKETS! I am not ending up before the ICC, just because you are a greedy little fu-\n\n<corrupt:0xFA05F2>: Gentlemen. Please.\n\n<corrupt:0xFFFFF7>: I- Ah. Apologies <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Doctor <corrupt:0xFFFFD9>. Please make your case. Why are those creatures worth keeping?<>\n\n[Silence. <corrupt:0xFFFFD9> sits down.]\n\n<corrupt:0xFFFFD9>:  I mean... There are so many reasons to pick, I-\n\n<corrupt:0xFA05F2>: Then I trust that you will be able to pick the right one.\n\n<corrupt:0xFFFFD9>:  Uh. Right. Okay. Braingrow! We have Braingrow!\n\n<corrupt:0xFFFFF7>: Yes, the commercially available medicine that one can purchase at the corner store.<>\n\n<corrupt:0xFFFFD9>: No. Not this one. I could bash someone's head straight open. Introduce the frontal lobe to a hammer. Corner store Braingrow won't help here. Ours will have the fellow walking and talking within a WEEK. Without such an ample supply of human-like test subjects, we'd need decades to perfect the nanomachines' operational directives. Twice that for testing.\n\n<corrupt:0xFA05F2>: Of course. <corrupt:0xFFFFF7>. Your counterpoint?<>\n\n<corrupt:0xFFFFF7>: Yeah. He's got results. The moment the public finds out just HOW he got them, we are all done for. What are you going to say, [#######]? That the creatures whose likeness we sell to kids exist, and that you enjoy cracking their heads in your spare time? There will be no shifting the blame. We will answer for this; the entire Company will. They'll even lynch our goddamned janitor!\n\n[The <corrupt:0xFA05F2> nods, watching the two silently for a moment.]<>\n\n<corrupt:0xFA05F2>: I now understand why you clash with such intensity. It is not in our nature to back down when the truth is on our side. And the truth is… You are both correct.\n\n[Silence.]<>\n\n<corrupt:0xFA05F2>: The Sawians pose a risk that we cannot afford to take. They are also an opportunity that we cannot afford to let go. We have them in our grasp. And we must make sure things remain that way.\n\n<corrupt:0xFFFFD9>: But… how, <corrupt:0xFA05F2>?\n\n[<corrupt:0xFA05F2> smiles, and- \n\n<corrupt:0xA1CF43><>\n\n[Meeting summary]\n-Facility put on lockdown until further notice.\n-Sawians confined to their cells until further notice.\n-Employees are forbidden from leaving the grounds until further notice.\n-Employee contracts extended indefinitely.\n-Carrying firearms made mandatory for Security personnel\n-Facility-wide thermal remediation procedures approved and pre-authorized.",
+            "Item1": "(PDAは酷く損傷しているようだ)\n<>\n[指令受信]\n[宇宙 <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\n場所: 地下<corrupt:0xFFFFFF> \n日付: <corrupt:0xFFFFFF>\n所有者: <corrupt:0xFFFFFF>\n-----------------------------------------------------------------------\n<>\n警告：施設職員へ\n\n本日、事故が発生し<corrupt:0xFFFFFF>\n\n<corrupt:0xFFFFFF> に関する全ての実験を中止せよ。\n即時発効。\n<>\n事故報告書：\n\n<corrupt:0xFFFFFF>、コードネーム <corrupt:0xFFFFFF> のドロップポッドカプセルの定期試験中に、テレポ <corrupt:0xFFFFFF> に関する予期せぬ異常が発生。\nポッドは壁の一部にめり込む形でテレポートし、転送着陸手順が不安定化。一時的なブラックホール現 <corrupt:0xFFFFFF> せいで <corrupt:0xFFFFFF> 多くの科学者と技術者が、爆縮による甚大な被害を受けた。ポッドに搭乗していたソーウィアンは生存者無し。\n\n今後、全てのテレポーテーション技術の研 <corrupt:0xFFFFFF> は、追って通知があるまで停止する。ユニット <corrupt:0xFFFFFF> は <corrupt:0xFFFFFF> まで封鎖下にある。\n<>\n\n手が空いている全職員は、直ちに<corrupt:0xFFFFFF>へ報告せよ。\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000000FF 不正なメモリアクセス>\n\n(エラー以外にテキストは残っていないようだ)",
             "Item2": ""
-        }, 
+        },
         {
-            "Item1": "(The PDA seems to be extremely damaged)\n<>\n[RECEIVED DIRECTIVE]\n[SPACE <corrupt:0xFFFFFF>]\n-----------------------------------------------------------------------\nLOCATION: UNDER G<corrupt:0xFFFFFF> \nDATE: <corrupt:0xFFFFFF>\nDECLARED OWNER: <corrupt:0xFFFFFF>\n-----------------------------------------------------------------------\n<>\nWARNING SITE PERSONNEL\n\nAN ACCIDENT HAPPENED TODAY I <corrupt:0xFFFFFF> \n\nALL TESTS CONCERN <corrupt:0xFFFFFF> RE TO BE HALTED. \nEFFECTIVE IMMEDIATELY\n<>\nINCIDENT REPORT:\n\nOn <corrupt:0xFFFFFF> during routine tests on the drop pod capsules codename <corrupt:0xFFFFFF> there was an unexpected anomaly concerning the telepo <corrupt:0xFFFFFF>\nThe pod was teleported partially into a wall, destabilizing the tele-landing procedure and causing a brief black-hole pr <corrupt:0xFFFFFF>ecause o <corrupt:0xFFFFFF> a number of scientists and engineers suffered extreme damage caused by the implosion. The sawian occupying the pod did not survive.\n\nFrom now on all teleportation tech resear   <corrupt:0xFFFFFF>topped until further notice. Unit <corrupt:0xFFFFFF> is under lockdown until <corrupt:0xFFFFFF>\n<>\n\nAll available personnel are to report to s<corrupt:0xFFFFFF>\n\n<corrupt:0x0000000000>\n<corrupt:0x0000000000>\n<corrupt:0x00000000000000000FF ILLEGAL MEMORY ACCESS>\n\n(There seems to be no more text except errors)", 
+            "Item1": "[生体認証レポート - 25##-08-04-09-05-25-1057]\n[プロジェクト: \"ある日常\"]\n----------------------------------------------<>\nさて。\nこれが今の私の\"日記\"みたいです。どうやら、個人の生活や経験を記述した著作物のことらしいですね。\nなぜ白衣たちが私にこんなことをさせるのか、確かな理由は分かりません。もっとも、彼らが我々に強制することの大半は理解不能ですが。\nとはいえ、今日の私は幸運です。執筆課題よりも遥かに酷い目に遭うことだってあるのですから。\nこの端末は実に興味深い。あと数時間で手放さなければならないのが残念です。しかし課題を与えられた以上、完遂しなければなりません。<>\n\n我々は通常、互いに起こし合うか、最初の食事を知らせるブザーで目覚めます。起きてすぐに実験が行われることは稀です。\nこれが\"何時\"に起きているのか、私には分かりません......。そもそも、時間の概念すら怪しいものです。白衣たちが常にそれについて話しているのは聞こえますが...　\n\nとにかく、我々は目覚め、すぐにその日最初の食事の時間になります。\n支給される食事には多少の変化があります。数年前には無かったことです。とはいえ、相変わらず栄養バーが主ですが。味気ないものですが、文句は言えません...　\n\n--------------------------------------------------<>\n数時間後。\n\n白衣たちが狩りをする時間です。\n番号で呼び出され、彼らの元へ行かねばなりません。\nあるいは、彼らが迎えに来るか。\n後者は御免ですね。\n時折、複数の番号が呼び出されることもあります...　まあ、それは大抵良い兆候ですが。<>\n\n何をされるかは、本当に運次第です。\n無害な実験もあれば、恐ろしい実験もあり、時には有益な場合もあります。\n特筆すべきは、白衣たちはあくまで何かをしようと試みているに過ぎないという点です。彼らが我々を助けようとすることもありますが、その試みは、我々の身体をめちゃくちゃにしようとする実験に比べて、成功率が遥かに低いのです。<>\n\n2つの番号が呼ばれ、2人が立ち上がりました。顔には不安が浮かんでいます。\n片方は健康体です。傷つけられる可能性が高いでしょう。\n\nもう片方には、腕が4本あります。\n左に1本、右に3本。\nまあ、あの奇妙な腫瘍を腕と呼べるならの話ですが。見た目はそれに近い。\n彼らは元々、2本の腕を持って生まれました。ある日、白衣たちは「腕が多すぎる」と判断し、1本を切除しました。\n翌日、彼らの腕は11本になっていました。\n人間たちはそのうち10本を切除し、代わりに7本の新しい腕に恵まれました。\nその翌日には5本になり。\n今日は4本です。\n\nいよいよ、その時が近いようですね。<>\n\nこの哀れな同胞は「アームズ」と呼ばれています。誓って言いますが、これはこの一連の苦行が始まる前からの名前です。人間たちが彼らを実験体に選んだのはその名前のせいだと、皆が噂していますよ。\n彼らなりのジョークのつもりなんでしょうか？\n\n[PAGE 1 OF 2]",
             "Item2": ""
-        }, 
+        },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-08-04-09-05-25-1057]\n[Project: \"A day in the life\"]\n----------------------------------------------<>\nSo.\nThis is my \"journal\" now. Which is apparently a written work describing one's life and experiences.\nI am not entirely sure why the coats have me doing this, but the same can be said about most things they make us do.\nStill, I got lucky today. It can get way worse than a writing exercise.\nI find this device quite fascinating, and it is a shame that I will part with it in just a few hours. But I have been given a task, and I shall complete it.<>\n\nWe usually are woken up either by eachother, or by the first food buzzer ringing. Rarely do we wake up to testing immediately.\nI'm not sure what \"hour\" this happens at... Hell, I barely understand the concept. Though, I hear the coats talking about it all the time...\n\nAnyway, we wake up and soon it's time for our very first meal of the day.\nWhat they feed us is slightly varied, which wasn't the case just a few years ago. Still mostly just nutrient bars, though. They're really bland, but I can't complain...\n\n--------------------------------------------------<>\nIt's some hours later now.\n\nThis is the time when the coats hunt.\nThey call you out by the number, and you have to come to them.\nOr they come for you. \nYou do not want that.\nSometimes, they call out multiple numbers... It's usually a good sign, though.<>\n\nWhat they'll do to you is up to chance, really.\nThe tests can be harmless, they can be terrible, or they can be beneficial.\nIt's worth noting that the coats merely TRY to do things, and while sometimes they try to help, those attempts are usually far less successful than the ones where they try to mess you up.<>\n\nTwo numbers are called, and two others stand up, their faces worried.\nOne of them is healthy. Far more likely to get hurt.\n\nThe other has four arms.\nOne on the left, and three on the right.\nWell, if you could call the weird growths arms. They look kinda close?\nThey were originally born with two. The coats decided that to be too much one day, and removed one.\nThe next day, they came back with ELEVEN arms.\nThe humans removed ten of those, only to grace them with seven new ones.\nThe next day it was five.\nToday it's four.\n\nThey are getting close now.<>\n\nThe poor fellow is called Arms. And I swear, this was their name BEFORE this whole ordeal, and it's widely believed that humans picked them because of that.\nPerhaps it's their idea of a joke?\n\n[PAGE 1 OF 2]", 
+            "Item1": "[生体認証レポート - 25##-08-04-09-05-25-1057]\n[プロジェクト: \"ある日常\"]\n----------------------------------------------\n<>\n静かです。運が良かった者たちは休息を取り、交流することもあります。大抵は、連れて行かれた者たちを案じているだけですが。\n\"時間\"という概念、この周期、スケジュール...　恐ろしいものです。\n私は理解できません。なぜ睡眠周期が24（？）時間に分割されているのでしょう？ 何がそのルールを支配しているのですか？ 人間ですら、それに従っています。\n何か彼らより上位の存在が、それを管理しているのでしょうか？\n<>\n\nさらに数時間後、最初の被験者たちがぽつりぽつりと戻ってき始めます。\n最善のシナリオは、自力で歩いて戻ってくることです。実はよくあることです。\n運び込まれることもあります。\n稀に、代わりに警備兵が2人入ってくることがあります。彼らは誰かの簡易ベッドへ直行し、荷物を持ち去るのです。\nそれが友人であり、警備兵が比較的親切な類であれば、1つか2つ、形見を残してくれることもあります。\n私にはもう、帰りを待つ相手がいませんが。なので私は、待つ人たちをただ眺めています。誰もが慣れっこですが、緊張感は常に漂っています。\n<>\n\n夕食の時間です。\n食事配給機が、私の皿に調理された肉を落としました。ついていますね。朝食よりマシなのは確かです。\n同じように運が良かった者たちが、満足げに鼻を鳴らします。相変わらずの栄養バーを出された者たちは不満を漏らします。まるで手元にあるものを適当に与えているようです...　これも実験なのでしょうか？\n食べ物を巡って争いが起きることもありますが、稀です。そんな時、警備兵は不機嫌になりますから。\n \n私たちは話し、遊び、歌います。\n傷の手当てをする者や、手伝う者もいます。\n穏やかな時間です。\n白衣たちの仕事は、ひとまず終わりのようです。\n\nその後。\nあと1「時間」ほどで、本日最後の食事が配給されます。\nそのすぐ後に就寝時間です。\nこれと言って書くことはありませんね、本当に。\n\n実のところ、1つだけありました。ごく稀に、この時間帯に追加の実験が呼び出されることがあります。そうですね、人間たちはそれを「移転」や「配置」と呼びます。\n<>\nそこへ呼び出された者は、二度と戻ってきません。しかし彼らは必ず、自分の荷物を持っていくことを許可します。本当に別の場所へ移されるからなのか、それとも自分で荷物をまとめさせることで、部屋を空ける手間を省きたいだけなのか、私には分かりませんが。\n<>\n\nじつのところなにがおｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋｋ\nkっっっ\nくそ\nいっしゅんかたまってしまいました。もじをけせません。でばいすがうけつけないのです。こｒはひど\nさいあくです\n<>\nてがふるえてにゅうりょくがこんなんです\nこんやのじっけんによばれました\nどこへつれていかれるのかはわかりません\nでもわたしのばんごうがよばれました\nこれからしることになるでしょう\n<>\nこううんをいのっててください\n\n[PAGE 2 OF 2]",
             "Item2": ""
-        }, 
+        },
         {
-            "Item1": "[BIOMETRIC REPORT - 25##-08-04-09-05-25-1057]\n[Project: \"A day in the life\"]\n----------------------------------------------\n<>\nIt's quiet. Those who get lucky often just rest; sometimes they socialize. Usually, they just worry about those who got taken.\nThis concept of \"Hours\", this cycle, schedule... It's terrifying.\nI don't understand it. Why is each sleep cycle divided into 24 (?) hours? What governs such rules? Even the humans play by it.\nIs something above them controlling it?\n<>\n\nSome more hours later, the first test subjects start to trickle back in.\nBest-case scenario, they walk in on their own. Quite common, actually.\nSometimes they are carried in.\nRarely, two guards come in instead. They head straight to someone's cot and take away their things.\nIf it were your friend, and the guards are some of the nicer ones, they will let you keep a thing or two.\nI don't really have anyone to wait for anymore, so I just watch those who do. Everyone is used to this, but the nerves are always present.\n<>\n\nDinner time.\nThe meal dispensers dropped some cooked meat on my plate. Lucky. Better than breakfast, for sure.\nSome others hum approvingly, as they get similarly lucky. Others grumble as they get served the same old nutrient bars. It's really like they are feeding us with whatever they have on hand... Maybe this is a test, too?\nSometimes fights break out over the food, but that's rare. The guards are not happy anytime this happens.\n \nPeople talk. They play. They sing.\nSome nurse their wounds, or help others nurse theirs.\nIt's a calm time.\nThe coats are done for the time being.\n\nLater.\nIn about an \"hour\", our last meal of the day will be served.\nBedtime soon after that.\nThere is not much more to say, really.\n\nActually, there is one thing. Very rarely, extra tests will be called around this time. Well, the humans call them \"Relocations\" or \"Assignments.\"\n<>\nYou never come back when you get called to one of those. But they always allow you to take your things. I am not sure if it's because they are really taking you somewhere else, or they simply want to expedite the process of emptying your place by having you do it yourself.\n<>\n\nEveryone wonders what reaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\nfddda\nshit\nFroze up for a moment there. I can't remove the letters. The device won't let me. It's bery\ncrap\n<>\nmy hands are shaking its difficult to type\nthey called the tests tonight\ni dont know where those called go\nbut they called my number\ni am about to find out\n<>\nwish me luck\n\n[PAGE 2 OF 2]", 
+            "Item1": "[EMAIL - 24##-06-25-13-51-18-1905]\n<>\n件名：規制当局の承認\n送信：<corrupt:0xFFFFDC>\n受信：<corrupt:0xFFFF0A>\n<>\nたった今、国家規制委員会との電話を終えたところだ。食料転送システムの販売許可が下りたぞ！これで使い捨て容器禁止令を強力に推し進められる。我々の「フークス・ボックス」には既に防腐機能があることを踏まえれば、食品ロス（そして我々の赤字続きの日々）も過去のものになるはずだ。それに、今時の人間がいかに怠惰かを考えれば、この技術は間違いなく他の用途にも転用できるだろう。\n<>\nドロップボックスの熱シールド強化を忘れるなよ。事故率は500分の1以下だが、それでもリスクはある...　知っての通り、E=mc^2においてcはあまりに巨大だ。つまりレーズン一粒分の質量がブラックホールとして崩壊しただけで、それは瞬時に（10のマイナス25乗秒以内に）蒸発してホーキング放射となり、広島に投下された原爆と同等のエネルギーを生み出すということだ。事故発生時に転送を反転させるシステムも改良され、エネルギーの大半を相殺できるようにはなったが、これ以上の漏出は許されない。\n<>\n怪我の功名と言うべきか、これで我々の異常な食料消費量の問題も、当面は片付く。食料配送部門が食料を消費していることになど、誰も疑問を抱かないからな。\n<>\nふと思うことがあるんだが、別の並行世界では、我々はこの技術で無限エネルギーの実用化を目指していたりするんだろうか？\n\n[END]",
             "Item2": ""
-        }, 
+        },
         {
-            "Item1": "[EMAIL - 24##-06-25-13-51-18-1905]\n<>\nSUBJECT: Regulations Approval\nFROM: <corrupt:0xFFFFDC>\nTO: <corrupt:0xFFFF0A>\n<>\nI just got off a holocall with the national regulation board. The food teleportation systems are good to sell! Now we can really push for that single-use packaging ban - and given that our foox-boxes already resist spoilage, food waste (and our unprofitable years) will be a thing of the past. And with how lazy people are nowadays, we can certainly adapt this tech to other things.\n<>\nDon't forget to strengthen the thermal shielding of the dropbox. The failure rate is less than 1 in 500, but still... As you know, when E=mc2, and c is so large, that means just the mass of a raisin collapsing into a black hole will immediately (within 10^-25 seconds) evaporate to Hawking radiation, and generate the energy equivalent to the nuclear bomb dropped on Hiroshima. Our systems for reversing the teleportation when this happens are getting better and can take away most of that energy, but we can't let any more leak out.\n<>\nSerendipitously, this solves our abnormally high food usage problem, for now. No one will question why our food delivery department is using food.\n<>\nDo you ever wonder, in an alternate universe, we would have pursued that infinite energy idea?\n\n[END]", 
+            "Item1": "(PDAは酷く損傷している。無数の警告が画面に表示されるが、一部のデータは読み取り可能だ...)\n<>\n[役員会議事録 542-23-145C]\n---------------------------------------------------------------\n場所: <corrupt:0xFFFF43>の本社\n日付: 12-04-[fetch.year(): failed]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: ...　我々が何を手にしているか、分かっているはずだ。ソーウィアンたちは...　彼らは我々の黄金の切符なんだ！今あるデータだけで、この部屋にいる全員がノーベル賞をもらえるほどだぞ！\n\n<corrupt:0xFFFFF7>: ああ、賞が9つだな。全員がその賞金を[<corrupt:0xFFFBc3>]に寄付することに同意したとしても、手元に残るのはせいぜい1500万ドルだ。お前の馬鹿げたプロジェクトという財政的なブラックホールに比べれば、バケツの中の一滴にもならない！<>\n\n[<corrupt:0xFFFFD9>が椅子から立ち上がる。]\n\n<corrupt:0xFFFFD9>: 馬鹿げた！？馬鹿げただと！？我々は生命を創造しているんだぞ！君は新たな知的種族の幼少期を目撃しているんだ！ほんの10年前なら、同業者たちはこの機会を得るためなら人殺しだって厭わなかったはずだ！\n\n<corrupt:0xFFFFF7>: 殺し？ ああ、やるだろうよ。だがそのコストを払うバカがいるか？ ...冗談じゃない。<>\n\n<corrupt:0xFFFFD9>: 君は金の話しかしないのか？いいだろう！金なら稼いでいる！ぬいぐるみのラインナップだけでも十分な利益が—\n\n<corrupt:0xFFFFF7>: 金以上の代償を払うことになるんだよ、このバカが！この件が嗅ぎまわるジャーナリストの机に乗った瞬間、我々は全員「命」で支払うことになる。それどころか、家族までリンチに遭うぞ。それに、ぬいぐるみを売るために、お前のコロニーの...　喋るネズミどもを生かしておく必要はない。\n\n<corrupt:0xFFFFD9>: ソーウィアンは喋るネズミじゃない！彼らは—<>\n\n<corrupt:0xFFFFF7>: おっと、失礼！分子分解機行きへの片道切符と言えばよかったか！俺たち全員分の切符だ！お前のような強欲なチビのせいで、ICCに引きずり出されるなんて御免だ—\n\n<corrupt:0xFA05F2>: 諸君。やめたまえ。\n\n<corrupt:0xFFFFF7>: 私は―　あぁ...　大変失礼いたしました、<corrupt:0xFA05F2>様。\n\n<corrupt:0xFA05F2>: <corrupt:0xFFFFD9>博士。君の言い分を聞こう。なぜその生物を生かしておく価値があるのかね？<>\n\n[沈黙。<corrupt:0xFFFFD9>が着席する。]\n\n<corrupt:0xFFFFD9>:その... 挙げるべき理由は山ほどございますが、私は―\n\n<corrupt:0xFA05F2>: ならば、その中から正解を選び出せると信じているよ。\n\n<corrupt:0xFFFFD9>:  あぁ... えー... つまり... ブレイングロウ！我々にはブレイングロウがございます！\n\n<corrupt:0xFFFFF7>: ああ、そこの角の店でも買える市販薬のことか。<>\n\n<corrupt:0xFFFFD9>: いいえ。市販の物とは異なります。例えば私が、誰かの頭をカチ割って中身をさらけ出させたとしましょう。前頭葉にハンマーをご挨拶させるのです。そんな状況では、売店のブレイングロウは何の役にも立ちません。ですが弊社の製品を使えば、その男は「1週間」以内に歩き、喋れるようになるのです。これほど豊富な人間に近い被験体の供給がなければ、ナノマシンの動作指令を完璧にするのに数十年はかかってしまいます。臨床試験にはその倍です。\n\n<corrupt:0xFA05F2>: なるほど。<corrupt:0xFFFFF7>、君の反論は？<>\n\n<corrupt:0xFFFFF7>: ええ、左様です。確かに彼は成果を出しております。ですが、彼がどのようにしてその成果を出したか大衆が知った瞬間、我々は終わりです。何と仰るおつもりで、[#######]さん？ 「子供たちに売っているぬいぐるみのモデルになった生物は実在していて、暇つぶしに彼らの頭を叩き割って楽しんでます」とでも？ 責任転嫁はできません。我々が責任を負うのです、会社全体が。用務員ですら縛り首に遭うでしょう！\n\n[<corrupt:0xFA05F2>は頷き、しばらく二人を無言で見つめる。]<>\n\n<corrupt:0xFA05F2>: 君たちがなぜそこまで激しく衝突するのか、理解できたよ。真理が自分たちの側にあるとき、引き下がらないのが我々の性分だ。そして真実は... 君たちはどちらも正しい。\n\n[沈黙。]<>\n\n<corrupt:0xFA05F2>: ソーウィアンは我々が負うことのできないリスクだ。同時に、手放すことのできない好機でもある。彼らは我々の手の内にある。そして、その状態を維持しなければならない。\n\n<corrupt:0xFFFFD9>: しかし... どのようにして行うのですか、<corrupt:0xFA05F2>様？\n\n[<corrupt:0xFA05F2>は微笑み、そして— \n\n<corrupt:0xA1CF43><>\n\n[会議概要]\n-施設は追って通知があるまで閉鎖。\n-ソーウィアンは追って通知があるまで独房に監禁。\n-従業員は追って通知があるまで敷地外への退出を禁止。\n-従業員の契約期間を無期限に延長。\n-警備担当者の銃器携帯を義務化\n-施設全域における熱的浄化処置の承認および事前認可。",
             "Item2": ""
-        }, 
-        {
-            "Item1": "(The PDA is heavily damaged. Countless warnings pop up on the screen, but some of the data is readable...)\n<>\n[Executive Board Meeting 542-23-145C Transcript]\n---------------------------------------------------------------\nLOCATION: Company Headquarters at <corrupt:0xFFFF43>\nDATE: 12-04-[fetch.year(): failed]\n---------------------------------------------------------------<>\n<corrupt:0xFFFFD9>: -you surely realize what we have on our hands here. The Sawians- they… they are our golden ticket! The data we have right now would be enough for a Nobel Prize for every single person in this room!\n\n<corrupt:0xFFFFF7>: Yes. That's nine prizes. If we all agreed to donate the cash from those to [<corrupt:0xFFFBc3>], we'd end up with roughly fifteen million dollars. A drop in a bucket compared to the financial black hole that is your idiotic project!<>\n\n[<corrupt:0xFFFFD9> rises from his chair.]\n\n<corrupt:0xFFFFD9>: IDIOTIC?! IDIOTIC?! WE ARE CREATING LIFE! You are a witness to the infancy of a new intelligent species! Our colleagues would *kill* for such an opportunity mere ten years ago!\n\n<corrupt:0xFFFFF7>: Kill? Sure. Pay what you ask? Hell. No.<>\n\n<corrupt:0xFFFFD9>: Is it always money with you? Fine! We are making money! Even our plushie line is more than enough to cover-\n\n<corrupt:0xFFFFF7>: Pay more than cash, you cretin! The moment this whole affair ends up on some nosy journalist's desk, we will all pay with our *lives.* Hell, our families will be lynched. Besides, the plushies do not require us to keep your colony of… talking rats alive.\n\n<corrupt:0xFFFFD9>: The Sawians are not talking rats! They are a mix of-<>\n\n<corrupt:0xFFFFF7>: OH, EXCUUUSE ME! I meant to say walking tickets to a dematerializer! OUR TICKETS! I am not ending up before the ICC, just because you are a greedy little fu-\n\n<corrupt:0xFA05F2>: Gentlemen. Please.\n\n<corrupt:0xFFFFF7>: I- Ah. Apologies <corrupt:0xFA05F2>.\n\n<corrupt:0xFA05F2>: Doctor <corrupt:0xFFFFD9>. Please make your case. Why are those creatures worth keeping?<>\n\n[Silence. <corrupt:0xFFFFD9> sits down.]\n\n<corrupt:0xFFFFD9>:  I mean... There are so many reasons to pick, I-\n\n<corrupt:0xFA05F2>: Then I trust that you will be able to pick the right one.\n\n<corrupt:0xFFFFD9>:  Uh. Right. Okay. Braingrow! We have Braingrow!\n\n<corrupt:0xFFFFF7>: Yes, the commercially available medicine that one can purchase at the corner store.<>\n\n<corrupt:0xFFFFD9>: No. Not this one. I could bash someone's head straight open. Introduce the frontal lobe to a hammer. Corner store Braingrow won't help here. Ours will have the fellow walking and talking within a WEEK. Without such an ample supply of human-like test subjects, we'd need decades to perfect the nanomachines' operational directives. Twice that for testing.\n\n<corrupt:0xFA05F2>: Of course. <corrupt:0xFFFFF7>. Your counterpoint?<>\n\n<corrupt:0xFFFFF7>: Yeah. He's got results. The moment the public finds out just HOW he got them, we are all done for. What are you going to say, [#######]? That the creatures whose likeness we sell to kids exist, and that you enjoy cracking their heads in your spare time? There will be no shifting the blame. We will answer for this; the entire Company will. They'll even lynch our goddamned janitor!\n\n[The <corrupt:0xFA05F2> nods, watching the two silently for a moment.]<>\n\n<corrupt:0xFA05F2>: I now understand why you clash with such intensity. It is not in our nature to back down when the truth is on our side. And the truth is… You are both correct.\n\n[Silence.]<>\n\n<corrupt:0xFA05F2>: The Sawians pose a risk that we cannot afford to take. They are also an opportunity that we cannot afford to let go. We have them in our grasp. And we must make sure things remain that way.\n\n<corrupt:0xFFFFD9>: But… how, <corrupt:0xFA05F2>?\n\n[<corrupt:0xFA05F2> smiles, and- \n\n<corrupt:0xA1CF43><>\n\n[Meeting summary]\n-Facility put on lockdown until further notice.\n-Sawians confined to their cells until further notice.\n-Employees are forbidden from leaving the grounds until further notice.\n-Employee contracts extended indefinitely.\n-Carrying firearms made mandatory for Security personnel\n-Facility-wide thermal remediation procedures approved and pre-authorized.", 
-            "Item2": ""
-        } 
+        }
     ]
 }
-
