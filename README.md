@@ -1,20 +1,60 @@
-# Scavenge Game Locale
-Localization files for the "Scavenge Game" by Orsoniks.
+# 🇯🇵 Scav Prototype (Casualties Unknown) 日本語化
 
-# Authors
-| File                       | Contributors                                                                                                        |
-|----------------------------|---------------------------------------------------------------------------------------------------------------------|
-| [English (EN)](/EN.json)   | [Orsoniks](https://github.com/Orsoniks)                                                                             |
-| [Français (FR)](/FR.json)  | [Azurian](https://github.com/clemtomera), [Dovahkick](https://github.com/Dovahkick)                                 |                                                                             |
-| [Русский (RU)](/RU.json)   | [Tairel](https://github.com/Tairelol), [olv](https://github.com/Ol1vver), [Flam3masterr](https://github.com/Flam3masterr)                                         |
-| [Беларускі (BY)](/BY.json)   | [Russian kid](https://github.com/Russiankids)   |
-| [Português (PT)](/PT.json) | [a-cake](https://github.com/a-cake)/[a-cake2](https://github.com/a-cake2), [woforu](https://github.com/woforu)       |
-| [Polski (PL)](/PL.json)   | [Fracix](https://github.com/Fracix), [wiornik](https://github.com/wiornik)                                                                             |
-| [Español (ES)](/ES.json)   | [Derkala](https://github.com/Derkala), [ItsVoidSK](https://github.com/ItsVoidSK), [Zilat](https://github.com/Zilat0)                                                                             |
-| [Deutsch (DE)](/DE.json)   | [Zorobis](https://github.com/Zorobis), [LvnatiQ](https://github.com/LvnatiQ)                                                                               |
-| [اَلْعَرَبِيَّةُ (AR)](/AR.json)   | [Enderwolf](https://github.com/Enderw0lf)    |
-| [简体中文 (ZH)](/ZH.json)   | [影月炎YUN](https://github.com/YUN2474), [月曦MONXI](https://github.com/martha-mana), [戈伦](https://github.com/ALPHA371)                                                                            |
-| [한국어 (KO)](/KO.json)     | [muqhc](https://github.com/muqhc), [DrawinDarwin](https://github.com/DrawinDarwin), [Kedr2806](https://github.com/Kedr2806)                            |
+このリポジトリは、**Scav Prototype (Casualties Unknown)** の日本語翻訳ファイルを公開するためのフォークです。
 
-# Maintainers
-* [@Orsoniks](https://github.com/Orsoniks)
+**翻訳ファイル:**  
+👉 [JA.json](https://github.com/marui-neko/scavgame-locale/blob/main/JA.json)
+
+---
+
+## 🛠️ 導入に必要なもの
+
+1.  **XUnity.AutoTranslator**  
+    Unity製ゲームの自動翻訳・文字置換ツール。
+2.  **日本語フォント**  
+    ゲーム内で日本語を正しく表示するために必須。
+3.  **JA.json**  
+    本リポジトリで配布している翻訳データ。
+
+---
+
+## 📥 導入手順
+
+### 1. 翻訳ファイルの配置
+ダウンロードした `JA.json` を以下のフォルダに配置。
+`CasualtiesUnknown\CasualtiesUnknown_Data\Lang`
+
+### 2. フォントの準備
+テスト環境では **Gothic-regular_u2019** を使用
+
+*   **入手先**: [XAT_Alternative_fonts (uploader.com)](https://ux.getuploader.com/XAT_Alternative_fonts/)
+*   **配置場所**: ゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置
+
+### 3. Config.ini の設定
+XUnity.AutoTranslatorを導入後、生成される `Config.ini`（AutoTranslatorフォルダ内）をテキストエディタで開き、`[Behaviour]` セクションを以下のように編集
+
+```ini
+[Behaviour]
+; 元のフォントを維持しつつ、日本語など不足文字のみ補完します（推奨）
+FallbackFontTextMeshPro=Gothic-regular_u2019
+
+```
+
+> [!IMPORTANT]
+> **設定の注意点**
+> *   **推奨**: `FallbackFontTextMeshPro` ライフポッド内の書き置きなどは別フォントが使われているため、数字などが入ると表示が乱れるが大体いい感じ
+> *   **非推奨**: `OverrideFontTextMeshPro`　文字が全体的に濁る
+
+---
+
+## ⚠️ 既知の不具合・仕様について
+
+### 🐛 表示の乱れ
+*   **タイトルのあらすじ表示が崩れる**
+    *   現状、解決策が見つかっておりません。
+
+### 🧠 文字化けのような表示について
+プレイ中に文章へ `＆` や `＠` などの記号が混ざり、読みにくくなる現象が発生することがありますが、これは**ゲームの仕様**です。
+
+*   **原因**: ゲーム内パラメータ **"Brain Health"（脳機能）** の低下
+*   翻訳ミスや不具合ではありませんので、ブレイングロウガブガブしてください。
