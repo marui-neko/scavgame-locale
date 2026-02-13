@@ -1,4 +1,4 @@
-# 🇯🇵 Casualties Unknown (Scav Prototype) 日本語化
+# Casualties Unknown (Scav Prototype) 日本語化
 
 このリポジトリは、**Casualties Unknown (Scav Prototype)** の日本語翻訳ファイルを公開するためのフォークブランチです。
 
