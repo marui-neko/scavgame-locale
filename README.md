@@ -45,7 +45,7 @@ FallbackFontTextMeshPro=Gothic-regular_u2019
 > *   **非推奨**: `OverrideFontTextMeshPro`　文字が全体的に濁る
 
 ### 4. ゲーム内設定の変更
-タイトル画面右上から「日本語」を選択
+タイトル画面右上から`日本語`を選択
 
 ---
 
