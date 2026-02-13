@@ -1,6 +1,6 @@
 # 🇯🇵 Casualties Unknown (Scav Prototype) 日本語化
 
-このリポジトリは、**Casualties Unknown (Scav Prototype)** の日本語翻訳ファイルを公開するためのフォークです。
+このリポジトリは、**Casualties Unknown (Scav Prototype)** の日本語翻訳ファイルを公開するためのフォークブランチです。
 
 **翻訳ファイル:**  
 👉 [JA.json](https://github.com/marui-neko/scavgame-locale/blob/main/JA.json)
