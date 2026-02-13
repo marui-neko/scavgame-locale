@@ -33,10 +33,6 @@
 ### 3. Config.ini の設定
 XUnity.AutoTranslatorを導入後、生成される `Config.ini`（AutoTranslatorフォルダ内）をテキストエディタで開き、`[Behaviour]` セクションを以下のように編集
 
-### 4. ゲーム内設定の変更
-タイトル画面右上から「日本語」を選択
-
-
 ```ini
 [Behaviour]
 FallbackFontTextMeshPro=Gothic-regular_u2019
@@ -47,6 +43,9 @@ FallbackFontTextMeshPro=Gothic-regular_u2019
 > **設定の注意点**
 > *   **推奨**: `FallbackFontTextMeshPro` ライフポッド内の書き置きなどは別フォントが使われているため、数字などが入ると表示が乱れるが大体いい感じ
 > *   **非推奨**: `OverrideFontTextMeshPro`　文字が全体的に濁る
+
+### 4. ゲーム内設定の変更
+タイトル画面右上から「日本語」を選択
 
 ---
 
