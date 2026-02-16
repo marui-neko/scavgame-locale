@@ -13,14 +13,15 @@
 ## 🛠️ 導入に必要なもの
 
 1.  **XUnity.AutoTranslator -ReiPatcher-**  
-    Unity製ゲームの自動翻訳・文字置換ツール。  
+    Unity製ゲームの自動翻訳・文字置換ツール
     [Releases · bbepis/XUnity.AutoTranslator (GitHub)](https://github.com/bbepis/XUnity.AutoTranslator/releases)
     
 2.  **日本語フォント (AssetBundle)**  
-    ゲーム内で日本語を正しく表示するために必須。
+    ゲーム内で日本語を正しく表示するために必須
+    推奨は本リポジトリで配布しているフォント
     
-3.  **ja-JP.json**  
-    本リポジトリで配布している翻訳データ。
+4.  **ja-JP.json**  
+    本リポジトリで配布している翻訳データ
 
 ***
 
