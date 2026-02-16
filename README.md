@@ -16,7 +16,7 @@
     Unity製ゲームの自動翻訳・文字置換ツール。  
     [Releases · bbepis/XUnity.AutoTranslator (GitHub)](https://github.com/bbepis/XUnity.AutoTranslator/releases)
     
-2.  **日本語フォント**  
+2.  **日本語フォント (AssetBundle)**  
     ゲーム内で日本語を正しく表示するために必須。
     
 3.  **ja-JP.json**  
@@ -28,7 +28,7 @@
 
 ### 1. 自動翻訳ツールの準備
 1.  `XUnity.AutoTranslator-ReiPatcher` をダウンロード。
-2.  解凍した中身(`SetupReiPatcherAndAutoTranslator.exe`)をゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
+2.  解凍した中身（`SetupReiPatcherAndAutoTranslator.exe`）をゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
 3.  `SetupReiPatcherAndAutoTranslator.exe` を起動。
 4.  同フォルダに `AutoTranslator` フォルダが作成されているのを確認。
 
@@ -37,19 +37,19 @@
 `CasualtiesUnknown\CasualtiesUnknown_Data\Lang`
 
 ### 3. フォントの準備
-テスト環境では **Dot-milkjf16_u2019** を使用。
+テスト環境では **dotgothic16_u2018** を使用。
 
-*   **入手先**: [XAT_Alternative_fonts (uploader.com)](https://ux.getuploader.com/XAT_Alternative_fonts/)
+*   **入手先**: [dotgothic16_u2018 のダウンロード](https://github.com/marui-neko/scavgame-locale/raw/refs/heads/japanese-translation/dotgothic16_u2018)
 *   **配置場所**: ゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
 
 ### 4. Config.ini の設定
-XUnity.AutoTranslator導入後に生成される `Config.ini`（AutoTranslatorフォルダ内）をテキストエディタで開き、`[Behaviour]` セクションの中から`FallbackFontTextMeshPro=`を探し、以下のように編集。
+XUnity.AutoTranslator導入後に生成される `Config.ini`（`AutoTranslator`フォルダ内）をテキストエディタで開き、`[Behaviour]` セクションの中から `FallbackFontTextMeshPro=` を探し、以下のように編集。
 
 ```ini
 [Behaviour]
 ~~
 OverrideFontTextMeshPro=
-FallbackFontTextMeshPro=Dot-milkjf16_u2019
+FallbackFontTextMeshPro=dotgothic16_u2018
 ```
 
 > [!IMPORTANT]
@@ -58,7 +58,8 @@ FallbackFontTextMeshPro=Dot-milkjf16_u2019
 > *   **非推奨**: `OverrideFontTextMeshPro`　文字が全体的に濁る。
 
 ### 5. パッチ＆ゲーム内設定の変更
-`CasualtiesUnknown (Patch and Run)`を実行してゲームを起動し、タイトル画面右上から `日本語` を選択。
+1.  `CasualtiesUnknown (Patch and Run).exe` を実行してゲームを起動。
+2.  タイトル画面右上から `日本語` を選択。
 
 ***
 
@@ -73,3 +74,13 @@ FallbackFontTextMeshPro=Dot-milkjf16_u2019
 
 *   **原因**: ゲーム内パラメータ **"Brain Health"（脳機能）** の低下
 *   翻訳ミスや不具合ではありませんので、ブレイングロウをガブガブしてください。
+
+***
+
+## 📜 ライセンス・クレジット
+
+### フォント
+本MODでは以下のフォントをアセットバンドル化して使用しています。
+*   **DotGothic16** (Licensed under SIL Open Font License 1.1)
+    *   Original Author: Fontworks Inc.
+    *   License: [https://scripts.sil.org/OFL](https://scripts.sil.org/OFL)
