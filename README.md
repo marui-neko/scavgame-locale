@@ -58,7 +58,7 @@ FallbackFontTextMeshPro=Dot-milkjf16_u2019
 > *   **非推奨**: `OverrideFontTextMeshPro`　文字が全体的に濁る。
 
 ### 5. パッチ＆ゲーム内設定の変更
-CasualtiesUnknown (Patch and Run)を実行してゲームを起動し、タイトル画面右上から `日本語` を選択。
+`CasualtiesUnknown (Patch and Run)`を実行してゲームを起動し、タイトル画面右上から `日本語` を選択。
 
 ***
 
