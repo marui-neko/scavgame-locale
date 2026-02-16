@@ -17,7 +17,7 @@
     [Releases · bbepis/XUnity.AutoTranslator (GitHub)](https://github.com/bbepis/XUnity.AutoTranslator/releases)
     
 2.  **日本語フォント (AssetBundle)**  
-    ゲーム内で日本語を正しく表示するために必須
+    ゲーム内で日本語を正しく表示するために必須  
     推奨は本リポジトリで配布しているフォント
     
 4.  **ja-JP.json**  
