@@ -1,6 +1,6 @@
 {
     "name": "日本語",
-    "description": "CasualtiesUnknownV5.03の非公式日本語訳 要XUnity.AutoTranslator、導入方法は日本語翻訳リポジトリ参照:https://github.com/marui-neko/scavgame-locale/tree/japanese-translation",
+    "description": "CasualtiesUnknownV5.03の非公式日本語訳\n要XUnity.AutoTranslator\n導入方法は日本語翻訳リポジトリ参照↓\n\n<color=\"yellow\">https://github.com/marui-neko/scavgame-locale/tree/japanese-translation",
     "main": {
         "bandage": "包帯",
         "bandagedsc": "ガーゼ付きの包帯。出血を抑え、骨折部位を固定し、皮膚の治癒を助ける。筋肉健康度への効果はない。",
