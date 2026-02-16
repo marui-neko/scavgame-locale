@@ -28,7 +28,7 @@
 
 ### 1. 自動翻訳ツールの準備
 1.  `XUnity.AutoTranslator-ReiPatcher` をダウンロード。
-2.  解凍した中身をゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
+2.  解凍した中身(`SetupReiPatcherAndAutoTranslator.exe`)をゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
 3.  `SetupReiPatcherAndAutoTranslator.exe` を起動。
 4.  同フォルダに `AutoTranslator` フォルダが作成されているのを確認。
 
@@ -37,17 +37,19 @@
 `CasualtiesUnknown\CasualtiesUnknown_Data\Lang`
 
 ### 3. フォントの準備
-テスト環境では **Gothic-regular_u2019** を使用。
+テスト環境では **Dot-milkjf16_u2019** を使用。
 
 *   **入手先**: [XAT_Alternative_fonts (uploader.com)](https://ux.getuploader.com/XAT_Alternative_fonts/)
 *   **配置場所**: ゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
 
 ### 4. Config.ini の設定
-XUnity.AutoTranslator導入後に生成される `Config.ini`（AutoTranslatorフォルダ内）をテキストエディタで開き、`[Behaviour]` セクションを以下のように編集。
+XUnity.AutoTranslator導入後に生成される `Config.ini`（AutoTranslatorフォルダ内）をテキストエディタで開き、`[Behaviour]` セクションの中から`FallbackFontTextMeshPro=`を探し、以下のように編集。
 
 ```ini
 [Behaviour]
-FallbackFontTextMeshPro=Gothic-regular_u2019
+~~
+OverrideFontTextMeshPro=
+FallbackFontTextMeshPro=Dot-milkjf16_u2019
 ```
 
 > [!IMPORTANT]
