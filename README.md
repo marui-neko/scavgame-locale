@@ -1,53 +1,64 @@
 # Casualties Unknown (Scav Prototype) 日本語化
 
-このリポジトリは、**Casualties Unknown (Scav Prototype)** の日本語翻訳ファイルを公開するためのフォークブランチです。
+このリポジトリは、Casualties Unknown (Scav Prototype) の日本語翻訳ファイルを公開・編集・配布するための場所です。
+
+> [!WARNING]
+> **注意：非公式ですので自己責任で導入してください！**
 
 **翻訳ファイル:**  
 👉 [JA.json](https://github.com/marui-neko/scavgame-locale/blob/main/JA.json)
 
----
+***
 
 ## 🛠️ 導入に必要なもの
 
-1.  **XUnity.AutoTranslator**  
-    Unity製ゲームの自動翻訳・文字置換ツール。
+1.  **XUnity.AutoTranslator -ReiPatcher-**  
+    Unity製ゲームの自動翻訳・文字置換ツール。  
+    [Releases · bbepis/XUnity.AutoTranslator (GitHub)](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+    
 2.  **日本語フォント**  
     ゲーム内で日本語を正しく表示するために必須。
+    
 3.  **JA.json**  
     本リポジトリで配布している翻訳データ。
 
----
+***
 
 ## 📥 導入手順
 
-### 1. 翻訳ファイルの配置
+### 1. 自動翻訳ツールの準備
+1.  `XUnity.AutoTranslator-ReiPatcher` をダウンロード。
+2.  解凍した中身をゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
+3.  `SetupReiPatcherAndAutoTranslator.exe` を起動。
+4.  同フォルダに `AutoTranslator` フォルダが作成されているのを確認。
+
+### 2. 翻訳ファイルの配置
 ダウンロードした `JA.json` を以下のフォルダに配置。
 `CasualtiesUnknown\CasualtiesUnknown_Data\Lang`
 
-### 2. フォントの準備
-テスト環境では **Gothic-regular_u2019** を使用
+### 3. フォントの準備
+テスト環境では **Gothic-regular_u2019** を使用。
 
 *   **入手先**: [XAT_Alternative_fonts (uploader.com)](https://ux.getuploader.com/XAT_Alternative_fonts/)
-*   **配置場所**: ゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置
+*   **配置場所**: ゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
 
-### 3. Config.ini の設定
-XUnity.AutoTranslatorを導入後、生成される `Config.ini`（AutoTranslatorフォルダ内）をテキストエディタで開き、`[Behaviour]` セクションを以下のように編集
+### 4. Config.ini の設定
+XUnity.AutoTranslator導入後に生成される `Config.ini`（AutoTranslatorフォルダ内）をテキストエディタで開き、`[Behaviour]` セクションを以下のように編集。
 
 ```ini
 [Behaviour]
 FallbackFontTextMeshPro=Gothic-regular_u2019
-
 ```
 
 > [!IMPORTANT]
 > **設定の注意点**
-> *   **推奨**: `FallbackFontTextMeshPro` ライフポッド内の書き置きなどは別フォントが使われているため、数字などが入ると表示が乱れるが大体いい感じ
-> *   **非推奨**: `OverrideFontTextMeshPro`　文字が全体的に濁る
+> *   **推奨**: `FallbackFontTextMeshPro` ライフポッド内の書き置きなどは別フォントが使われているため、数字などが入ると表示が乱れるが大体いい感じ。
+> *   **非推奨**: `OverrideFontTextMeshPro`　文字が全体的に濁る。
 
-### 4. ゲーム内設定の変更
-タイトル画面右上から`日本語`を選択
+### 5. パッチ＆ゲーム内設定の変更
+CasualtiesUnknown (Patch and Run)を実行してゲームを起動し、タイトル画面右上から `日本語` を選択。
 
----
+***
 
 ## ⚠️ 既知の不具合・仕様について
 
