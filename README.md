@@ -6,7 +6,7 @@
 > **注意：非公式ですので自己責任で導入してください！**
 
 **翻訳ファイル:**  
-👉 [JA.json](https://github.com/marui-neko/scavgame-locale/blob/main/JA.json)
+👉 [ja-JP.json](https://github.com/marui-neko/scavgame-locale/blob/main/JA.json)
 
 ***
 
