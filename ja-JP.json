@@ -131,7 +131,7 @@
         "digestioncrystalshard": "消化の結晶片",
         "digestioncrystalsharddsc": "身体から何かが吸い取られていく感覚がある...。身につけている間、病気を軽減する。",
         "geofruit": "ジオフルーツ",
-        "geofruitdsc": "素朴だが美味しい果実。ジオツリーに実る。低カロリーで、渇きを多少癒すが、腐りやすい。",
+        "geofruitdsc": "素朴だが美味しい果実。ジオツリーに実る。低カロリーで、渇きを多少癒すが腐りやすい。",
         "stonefruitclosed": "未処理のストーンフルーツ",
         "stonefruitcloseddsc": "硬い灰色の植物片に固着した硬い緑色の果実。食べるにはまず歯を使って剥がす必要がある。",
         "stonefruitopen": "ストーンフルーツ",
@@ -1376,7 +1376,7 @@
         "lifepodMinigameGuide": "コードを合わせて開ける。",
         "shrapnelMinigameGuide": "破片はゆっくり引き抜くこと。速すぎると痛みが生じる。\nピンセットを使えば、速度制限を無視できる。",
         "dislocationMinigameGuide": "骨を正しい位置にぶつけて脱臼を治す。\nレンチを使えば、痛みはずっと少なくて済む。",
-        "amputationMinigameGuide": "四肢を切断するために鋸で挽く。その後、必ず止血すること。",
+        "amputationMinigameGuide": "四肢を切断するために挽く。その後、必ず止血すること。",
         "minigameExitGuide": "右クリック/ESCキーで終了",
         "saveexit": "セーブして終了",
         "saveexitdsc": "進行状況を保存して休憩する。\n探索は次の階層の開始時から再開される。",
@@ -1409,7 +1409,7 @@
         "watchtemperature": "気温: ",
         "mp3play": "再生中: ",
         "rechargingstationcheer": "お待ちのひととき、優雅な音楽をお楽しみください",
-        "discretionwarning": "このゲームには暴力、自傷行為、および全般的な悲劇の描写が含まれています\n<color=\"grey\">左クリックで続行",
+        "discretionwarning": "このゲームには暴力、自傷行為、および全体的に陰鬱な描写が含まれています\n<color=\"grey\">左クリックで続行",
         "healthpaneltip": "ヘルスパネル （R）",
         "craftrepair": "修理 ",
         "crafttipname": "クラフト （C）",
@@ -1556,7 +1556,7 @@
         "categoryfood": "食料",
         "categorywater": "水分",
         "categorytool": "ツール",
-        "categoryutility": "実用品",
+        "categoryutility": "ユーティリティ",
         "hpspecies": "種族",
         "hpbrainhealth": "脳機能",
         "hpconsciousness": "意識レベル",
@@ -1568,7 +1568,7 @@
         "hpimmunity": "免疫力",
         "hpimmunitydsc": "感染症に対する身体の抵抗力\n免疫力が低いと、消毒済みでも感染が進行する",
         "hptemperature": "深部体温",
-        "hpsickness": "疾病度",
+        "hpsickness": "病気度",
         "hphappiness": "気分",
         "hphunger": "空腹度",
         "hpthirst": "渇き",
@@ -4247,4 +4247,3 @@
         }
     ]
 }
-
