@@ -28,7 +28,7 @@
 ## 📥 導入手順
 
 ### 1. 自動翻訳ツールの準備
-1.  `XUnity.AutoTranslator-ReiPatcher` をダウンロード。
+1.  [`XUnity.AutoTranslator-ReiPatcher`](https://github.com/bbepis/XUnity.AutoTranslator/releases) をダウンロード。
 2.  解凍した中身（`SetupReiPatcherAndAutoTranslator.exe`）をゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
 3.  `SetupReiPatcherAndAutoTranslator.exe` を起動。
 4.  同フォルダに `AutoTranslator` フォルダが作成されているのを確認。
