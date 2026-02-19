@@ -31,7 +31,8 @@
 1.  [`XUnity.AutoTranslator-ReiPatcher`](https://github.com/bbepis/XUnity.AutoTranslator/releases) をダウンロード。
 2.  解凍した中身（`SetupReiPatcherAndAutoTranslator.exe`）をゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
 3.  `SetupReiPatcherAndAutoTranslator.exe` を起動。
-4.  同フォルダに `ReiPatcher` フォルダが作成されているのを確認。
+4.  同フォルダに `ReiPatcher` フォルダが作成されているのを確認後、`CasualtiesUnknown (Patch and Run).exe` を実行してゲームを起動。起動後はゲームを終了させる。
+4.  同フォルダに `AutoTranslator` フォルダが作成されているのを確認できたら導入は完了です。
 
 ### 2. 翻訳ファイルの配置
 ダウンロードした `ja-JP.json` を以下のフォルダに配置。
