@@ -40,7 +40,8 @@
       その場合一度ゲームを起動することでパッチが当てられるようになります。
 
 ### 2. 翻訳ファイルの配置
-ダウンロードした `ja-JP.json` を以下のフォルダに配置。
+ダウンロードした `ja-JP.json` を以下のフォルダに配置。   
+
 `CasualtiesUnknown\CasualtiesUnknown_Data\Lang`
 
 ### 3. フォントの準備
