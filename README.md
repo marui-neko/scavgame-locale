@@ -37,7 +37,7 @@
 > [!IMPORTANT]
 > **パッチが当てられない**
 > *   `CasualtiesUnknown (Patch and Run)`を実行してもゲームが起動できずパッチが当てられない症状は、windows defenderのセキュリティが反応している可能性があります。（[Windows によって PC が保護されました]と出てくるやつ。）   
-      その場合オリジナルのexe（`CasualtiesUnknown.exe`）で一度ゲームを起動することでパッチが当てられるようになります。
+      その場合ゲームの実行ファイル（`CasualtiesUnknown.exe`）でwindows defenderの警告を経て一度ゲームを起動することでパッチが当てられるようになります。
 
 ### 2. 翻訳ファイルの配置
 ダウンロードした `ja-JP.json` を以下のフォルダに配置。   
