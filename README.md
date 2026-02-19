@@ -69,7 +69,7 @@ FallbackFontTextMeshPro=dotgothic16_u2018
 > *   **非推奨**: `OverrideFontTextMeshPro`　文字が全体的に濁る。
 
 ### 5. パッチ＆ゲーム内設定の変更
-1.  `CasualtiesUnknown (Patch and Run).exe` を実行してゲームを起動。
+1.  `CasualtiesUnknown.exe` を実行してゲームを起動。
 2.  タイトル画面右上から `日本語` を選択。
 
 ***
