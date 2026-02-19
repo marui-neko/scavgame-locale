@@ -50,9 +50,13 @@
 *   **配置場所**: ゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
 
 ### 4. Config.ini の設定
-XUnity.AutoTranslator導入後に生成される `Config.ini`（`AutoTranslator`フォルダ内）をテキストエディタで開き、`[Behaviour]` セクションの中から `FallbackFontTextMeshPro=` を探し、以下のように編集。
+XUnity.AutoTranslator導入後に生成される `Config.ini`（`AutoTranslator`フォルダ内）をテキストエディタで開き、以下のように編集。
 
 ```ini
+[General]
+Language=ja
+FromLanguage=en
+
 [Behaviour]
 ~~
 OverrideFontTextMeshPro=
