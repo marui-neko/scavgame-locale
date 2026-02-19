@@ -34,6 +34,11 @@
 4.  同フォルダに `ReiPatcher` フォルダが作成されているのを確認後、`CasualtiesUnknown (Patch and Run).exe` を実行してゲームを起動。起動後はゲームを終了させる。
 4.  同フォルダに `AutoTranslator` フォルダが作成されているのを確認できたら導入は完了です。
 
+> [!IMPORTANT]
+> **パッチが当てられない**
+> *   `CasualtiesUnknown (Patch and Run).exe`を実行してもゲームが起動できずパッチが当てられない症状が出ますが、これはwindows defenderのセキュリティが反応している可能性があります。（[Windows によって PC が保護されました]と出てくるやつ。）   
+      その場合一度ゲームを起動することでパッチが当てられるようになります。
+
 ### 2. 翻訳ファイルの配置
 ダウンロードした `ja-JP.json` を以下のフォルダに配置。
 `CasualtiesUnknown\CasualtiesUnknown_Data\Lang`
