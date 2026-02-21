@@ -55,7 +55,7 @@ XUnity.AutoTranslator導入後に生成される `Config.ini`（`AutoTranslator`
 
 ```ini
 [General]
-Language=jp
+Language=ja
 FromLanguage=en
 
 [Behaviour]
