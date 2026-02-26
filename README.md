@@ -1,94 +1,132 @@
-# Casualties Unknown (Scav Prototype) 日本語化
+# Casualties Unknown (Scav Prototype) 日本語化＆フォント最適化ツール
 
-このリポジトリは、Casualties Unknown (Scav Prototype) の日本語翻訳ファイルを公開・編集・配布するための場所です。
+このリポジトリは、Casualties Unknown (Scav Prototype) の日本語翻訳ファイルを公開・配布するための場所です。
 
 > [!WARNING]
-> **注意：非公式ですので自己責任で導入してください！**
+> **注意：非公式のModツールです。導入はすべて自己責任で行ってください！**
 
 **翻訳ファイル:**  
-👉 [ja-JP.json](https://github.com/marui-neko/scavgame-locale/blob/japanese-translation/ja-JP.json)
+👉 [ja-JP.json](https://raw.githubusercontent.com/marui-neko/scavgame-locale/refs/heads/japanese-translation/ja-JP.json)  
+（※リンク先で右クリックして 「名前を付けて保存」 を選択してください）
+
+## ⚠️ 注意！ ⚠️
+
+リンクを右クリックして「名前をつけてリンク先を保存」を選択すると、拡張子が `.txt` に変わってしまいます。  
+**必ずリンク先にとんでから**、右クリックして 「名前を付けて保存」 を選択してください。
 
 ***
 
 ## 🛠️ 導入に必要なもの
 
-1.  **XUnity.AutoTranslator -ReiPatcher-**  
-    Unity製ゲームの自動翻訳・文字置換ツール
-    [Releases · bbepis/XUnity.AutoTranslator (GitHub)](https://github.com/bbepis/XUnity.AutoTranslator/releases)
-    
-2.  **日本語フォント (AssetBundle)**  
-    ゲーム内で日本語を正しく表示するために必須  
-    推奨は本リポジトリで配布しているフォント
-    
-4.  **ja-JP.json**  
-    本リポジトリで配布している翻訳データ
+日本語化環境を構築するために、以下の3つを使用しました。
+
+1. **BepInEx (x64版)**  
+   UnityゲームにModを導入するための必須前提ツール。  
+   👉 [Releases · BepInEx/BepInEx (GitHub)](https://github.com/BepInEx/BepInEx/releases)
+
+2. **XUnity.ResourceRedirector-BepInEx**  
+   フォントの読み込みを補助する「XUnity.ResourceRedirector」を使うために必要。  
+   👉 [Releases · bbepis/XUnity.AutoTranslator (GitHub)](https://github.com/bbepis/XUnity.AutoTranslator/releases)
+
+3. **CUFontPatcher**  
+   ゲーム内の様々なフォントを個別に指定・調整し、没入感を高めるための専用プラグイン。  
+   👉 [Releases · bbepis/XUnity.AutoTranslator (GitHub)](https://github.com/marui-neko/CUFontPatcher/tree/main)
+
+## ⚠️ 最初に確認！ ⚠️
+
+ゲームのディレクトリ（保存場所）のパスに「日本語」が含まれているとBepInExが起動しないため、日本語化ツールが動作しません。
+
+```text
+NG： C:\新規ファイル\Game
+推奨： C:\New_File\Game
+```
+
+必ず**英数字のみのパス**に配置してください。
 
 ***
 
 ## 📥 導入手順
 
-### 1. 自動翻訳ツールの準備
-1.  [`XUnity.AutoTranslator-ReiPatcher`](https://github.com/bbepis/XUnity.AutoTranslator/releases) をダウンロード。
-2.  解凍した中身（`SetupReiPatcherAndAutoTranslator.exe`）をゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
-3.  `SetupReiPatcherAndAutoTranslator.exe` を起動。
-4.  同フォルダに `ReiPatcher` フォルダが作成されているのを確認後、`CasualtiesUnknown (Patch and Run)` を実行してゲームを起動。起動後はゲームを終了させる。
-4.  同フォルダに `AutoTranslator` フォルダが作成されているのを確認できたら導入は完了です。
+1. 必要ファイルを同梱した[CU日本語化セット](https://mega.nz/file/L1FFGRKA#1MESyBFXZKGS-ywLuz85XwuYOiap1aOOqr3loWl45Hg) をダウンロード。
+2. 解凍した中身すべてを、ゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
+3. ダウンロードした `ja-JP.json` を以下のフォルダに配置。
 
-> [!IMPORTANT]
-> **パッチが当てられない**
-> *   `CasualtiesUnknown (Patch and Run)`を実行してもゲームが起動できずパッチが当てられない症状は、windows defenderのセキュリティが反応している可能性があります。（[Windows によって PC が保護されました]と出てくるやつ。）   
-      その場合ゲームの実行ファイル（`CasualtiesUnknown.exe`）でwindows defenderの警告を経て一度ゲームを起動することでパッチが当てられるようになります。
+   配置場所： `CasualtiesUnknown_Data\Lang`
 
-### 2. 翻訳ファイルの配置
-ダウンロードした `ja-JP.json` を以下のフォルダに配置。   
+***
 
-`CasualtiesUnknown\CasualtiesUnknown_Data\Lang`
+## 🔠 CUFontPatcherについて
 
-### 3. フォントの準備
-テスト環境では **dotgothic16_u2018** を使用。
+* **CUFontPatcherの構成は以下のとおりです。**
 
-*   **入手先**: [dotgothic16_u2018 のダウンロード](https://github.com/marui-neko/scavgame-locale/raw/refs/heads/japanese-translation/dotgothic16_u2018)
-*   **配置場所**: ゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
+   ```text
+   CasualtiesUnknown/
+   └── BepInEx/
+        └── plugins/
+             └── CUFontPatcher/
+                  ├── CUFontPatcher.dll    ← 本ツール
+                  ├── fontmap.txt          ← フォント設定ファイル
+                  ├── dotgothic16_u2018    ← 使用するフォント1
+                  └── (その他のフォント)   ← 使用するフォント2...
+   ```
 
-### 4. Config.ini の設定
-XUnity.AutoTranslator導入後に生成される `Config.ini`（`AutoTranslator`フォルダ内）をテキストエディタで開き、以下のように編集。
+* **`fontmap.txt` の設定について**  
+  フォントをカスタマイズしたい場合、このテキストファイルを編集することで、フォントの大きさや間隔、アウトラインを調整できます。詳しくはファイル内のコメントを参照してください。
 
-```ini
-[General]
-Language=ja
-FromLanguage=en
+***
 
-[Behaviour]
-~~
-OverrideFontTextMeshPro=
-FallbackFontTextMeshPro=dotgothic16_u2018
-```
+## ⚙️ ゲーム内での言語設定
 
-> [!IMPORTANT]
-> **設定の注意点**
-> *   **推奨**: `FallbackFontTextMeshPro` ライフポッド内の書き置きなどは別フォントが使われているため、数字などが入ると表示が乱れるが大体いい感じ。
-> *   **非推奨**: `OverrideFontTextMeshPro`　文字が全体的に濁る。
-
-### 5. パッチ＆ゲーム内設定の変更
-1.  `CasualtiesUnknown.exe` を実行してゲームを起動。
-2.  タイトル画面右上から `日本語` を選択。
+1. すべてのファイルの配置が終わったら、`CasualtiesUnknown.exe` からゲームを起動。
+2. タイトル画面右上の言語選択メニューから **「日本語」** を選択。
 
 ***
 
 ## ⚠️ 既知の不具合・仕様
 
 ### 🧠 文字化けのような表示について
-プレイ中に文章へ `＆` や `＠` などの記号が混ざり、読みにくくなる現象が発生することがありますが、これは**ゲームの仕様**です。
 
-*   **原因**: ゲーム内パラメータ **"Brain Health"（脳機能）** の低下
-*   翻訳ミスや不具合ではありませんので、ブレイングロウをガブガブしてください。
+プレイ中に文章へ `＆` や `＠` などの記号が混ざり、読みにくくなる現象が発生することがありますが、これは**ゲームの正常な仕様**です。
+
+* **原因**: ゲーム内パラメータ **"Brain Health"（脳機能）** の低下
+* 翻訳ミスやプラグインの不具合ではありません。ブレイングロウをガブガブ飲んで回復してください。
 
 ***
 
 ## 📜 ライセンス・クレジット
 
+### ライセンス
+
+本パッケージには、導入作業を簡略化する目的で「BepInEx」を同梱しています。
+
+
+BepInExは、GNU Lesser General Public License v2.1 (LGPL-2.1) の下でオープンソースとして提供されています。
+
+
+・BepInExのライセンス全文については、同梱の LICENSE.txt をご確認ください。  
+・BepInExのソースコードは、以下の公式リポジトリより入手可能です。
+
+
+  https://github.com/BepInEx/BepInEx   
+  [  https://github.com/BepInEx/BepInEx](https://github.com/BepInEx/BepInEx)
+
 ### フォント
+
 本MODでは以下のフォントをアセットバンドル化して使用しています。
-*   **DotGothic16** (Licensed under SIL Open Font License 1.1)
-    *   Original Author: Fontworks Inc.
-    *   License: [https://scripts.sil.org/OFL](https://scripts.sil.org/OFL)
+
+**sitest**  
+[https://booth.pm/ja/items/6218691](https://booth.pm/ja/items/6218691)
+
+**bestten_2018**  
+フォント：ベストテンFONT  
+フリーダウンロード：[https://flopdesign.booth.pm/items/2747965](https://flopdesign.booth.pm/items/2747965)
+
+**dotgothic16**  
+[https://fonts.google.com/specimen/DotGothic16](https://fonts.google.com/specimen/DotGothic16)
+
+**musin**  
+[https://modi.jpn.org/font_mushin.php](https://modi.jpn.org/font_mushin.php)
+
+一部のフォントアセットは下記リンクより入手させていただきました。  
+[https://note.com/allgames_kari/n/n627af62e595f](https://note.com/allgames_kari/n/n627af62e595f)  
+[https://ux.getuploader.com/XAT_Alternative_fonts/](https://ux.getuploader.com/XAT_Alternative_fonts/)
