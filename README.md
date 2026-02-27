@@ -49,7 +49,7 @@ NG： C:\新規ファイル\Game
 
 ## 📥 導入手順
 
-1. 必要ファイルを同梱した[CU日本語化セット](https://mega.nz/file/L1FFGRKA#1MESyBFXZKGS-ywLuz85XwuYOiap1aOOqr3loWl45Hg) をダウンロード。
+1. 必要ファイルを同梱した[CU日本語化パック](https://mega.nz/file/u19wUCDQ#eWCWK0JQqwKsFnkWWy04v0HUcGmxRDGYi2Tz7fbD2Ic) をダウンロード。
 2. 解凍した中身すべてを、ゲームの実行ファイル（`CasualtiesUnknown.exe`）と同じフォルダに配置。
 3. ダウンロードした `ja-JP.json` を以下のフォルダに配置。
 
