@@ -62,12 +62,13 @@ NG： C:\新規ファイル\Game
 
 ## 🔠 CUFontPatcherについて
 
-**CUFontPatcher** は、ゲーム内のフォントを任意のカスタムフォントに置き換えることができる BepInEx プラグインです。
+[CUFontPatcher](https://github.com/marui-neko/CUFontPatcher)は、ゲーム内のフォントを任意のカスタムフォントに置き換えることができる BepInEx プラグインです。  
+
+
 
 > [!NOTE]
 > 📝
 > 独自のカスタムフォントを追加して使用したい場合は、Unity を使用して **TextMeshPro フォントアセット** を作成する必要があります。
-> 更に詳しく知りたい場合は[こちらから](https://github.com/marui-neko/CUFontPatcher) 
 
 ---
 
