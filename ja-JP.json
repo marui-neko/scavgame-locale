@@ -1431,7 +1431,7 @@
         "craftitemquality": "- 特性値 （<1>） <2> ",
         "craftliquidquality": "- 合計特性値 （<1>） <2> ",
         "craftcondition": "- 状態 <>% 以上",
-        "craftmL": "- 容量 <>mL 以上",
+        "craftml": "- 容量 <>mL 以上",
         "craftinfocondition": "状態: ",
         "craftinfovolume": "容量: ",
         "craftinfoamount": "数量: ",
