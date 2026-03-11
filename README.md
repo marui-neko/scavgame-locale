@@ -86,6 +86,7 @@
 本プロジェクトは、以下の有志メンバーの皆様の多大なるご協力によって制作されています。心より感謝申し上げます！
 * **RicecakeHuman**  [GitHub Profile](https://github.com/RicecakeHuman)
 * **huwahuwa**
+* **NEꞰ0**
 
 ***
 
