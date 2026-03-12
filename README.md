@@ -14,8 +14,8 @@
 
 ### ⚠️ ゲームの保存場所に注意！
 ゲームのフォルダパスに「日本語」が含まれていると、日本語化ツールが動作しません。
-* ❌ NG： `C:\新規ファイル\CasualtiesUnknow`
-* ⭕ 推奨： `C:\New_File\CasualtiesUnknow`
+* ❌ NG： `C:\新規ファイル\CasualtiesUnknown`
+* ⭕ 推奨： `C:\New_File\CasualtiesUnknown`
 
 
 必ず**英数字のみのパス**に配置してください。
