@@ -97,7 +97,7 @@
 1. **BepInEx (x64版)**: UnityゲームにModを導入するための必須前提ツール。👉 [GitHub](https://github.com/BepInEx/BepInEx/releases)
 2. **XUnity.ResourceRedirector-BepInEx**: フォントの読み込みを補助するために必要。👉 [GitHub](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 3. **CUFontPatcher**: フォントを個別に指定・調整し自動改行を追加する専用プラグイン。👉 [GitHub](https://github.com/marui-neko/CUFontPatcher/tree/main)
-4. **CUTranslateSupporter**: 自動で日本語訳をダウンロード、適応、及び翻訳支援を行うツール。
+4. **CUTranslateSupporter**: 自動で日本語訳をダウンロード、適応、及び翻訳支援を行うツール。 👉 [GitHub](https://github.com/marui-neko/CUTranslateSupporter)
 5. **CUImageReplacer**: ゲーム内の画像を置き換えるプラグイン。
 
 ### ライセンス
