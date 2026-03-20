@@ -93,7 +93,7 @@
 <details><summary>ライセンス情報・使用フォント（クリックで展開）</summary>
 
 ### 🛠️ 日本語化パックに同梱しているツール
-日本語化環境を構築するために、以下の3つを使用・同梱しています。
+日本語化環境を構築するために同梱しています。
 1. **BepInEx (x64版)**: UnityゲームにModを導入するための必須前提ツール。👉 [GitHub](https://github.com/BepInEx/BepInEx/releases)
 2. **XUnity.ResourceRedirector-BepInEx**: フォントの読み込みを補助するために必要。👉 [GitHub](https://github.com/bbepis/XUnity.AutoTranslator/releases)
 3. **CUFontPatcher**: フォントを個別に指定・調整し自動改行を追加する専用プラグイン。👉 [GitHub](https://github.com/marui-neko/CUFontPatcher/tree/main)
